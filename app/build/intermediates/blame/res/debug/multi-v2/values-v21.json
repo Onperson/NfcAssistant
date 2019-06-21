@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,8,9,10,11,12,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "94,198,262,329,454,570,696,822,950,1122",
+                        "endLines": "3,4,5,6,8,9,10,11,14,19",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "193,257,324,388,565,691,817,945,1117,1455"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values-v21/colors.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "761",
+                        "endColumns": "38",
+                        "endOffsets": "795"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "761",
+                        "endColumns": "61",
+                        "endOffsets": "818"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "393",
+                        "endColumns": "60",
+                        "endOffsets": "449"
+                    }
+                }
+            ]
+        }
+    ]
+}

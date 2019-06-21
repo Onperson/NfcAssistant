@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_value_block_to_int.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/value_block_to_int.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/xml_nfc_tech_filter.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/xml/nfc_tech_filter.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_arrow_down.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/arrow_down.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_tools.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/tools.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_arrow_down.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-xhdpi/arrow_down.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_write_tag.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/write_tag.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/menu_file_chooser_functions.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/menu/file_chooser_functions.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/menu_key_editor_functions.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/menu/key_editor_functions.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_clone_uid.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/clone_uid.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_edit_dump.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/edit_dump.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_access_condition_decoder.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_access_condition_decoder.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_preferences.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/preferences.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_edit_keys.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/edit_keys.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/xml_layout_border.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/xml/layout_border.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_diff_tool.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_diff_tool.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_list_item_diff_block.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/list_item_diff_block.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_tag_info.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/tag_info.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_dialog_donate.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/dialog_donate.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_bcc_tool.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_bcc_tool.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_list_item_small_text.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/list_item_small_text.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/menu_dump_editor_functions.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/menu/dump_editor_functions.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_create_key_map.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_create_key_map.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_arrow_up.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/arrow_up.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_preferences.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_preferences.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_value_block_tool.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_value_block_tool.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_file_chooser.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_file_chooser.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_tag_info_tool.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_tag_info_tool.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_warning.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/warning.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_write_tag.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_write_tag.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_map_keys_to_sector.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/map_keys_to_sector.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_arrow_up.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-xhdpi/arrow_up.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_dump_editor.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_dump_editor.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_key_editor.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_key_editor.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_read_tag.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/read_tag.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_hex_to_ascii.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/hex_to_ascii.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_value_block_tool.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/value_block_tool.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_access_condition_tool.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/access_condition_tool.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_main_menu.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_help_and_info.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/help_and_info.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_help_and_info.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/help_and_info.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_access_condition_tool.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_access_condition_tool.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_read_tag.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_read_tag.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/menu_general_options.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/menu/general_options.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_bcc_tool.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/bcc_tool.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_value_blocks_to_int.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_value_blocks_to_int.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_help.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_write_tag.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/write_tag.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_copy.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/copy.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_copy.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-xhdpi/copy.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_open.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/open.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_paste.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-xhdpi/paste.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_edit_keys.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/edit_keys.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_dialog_write_sectors.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/dialog_write_sectors.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_read_tag.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/read_tag.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_warning.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/warning.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_edit_dump.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/edit_dump.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_clone_uid_tool.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_clone_uid_tool.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/xml_file_provider_paths.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-hdpi_paste.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable-hdpi/paste.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_access_conditions.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/access_conditions.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_tools.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/tools.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/layout_activity_hex_to_ascii.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/layout/activity_hex_to_ascii.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable_diff_tool.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/drawable/diff_tool.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/menu_tools.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/menu/tools.xml"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

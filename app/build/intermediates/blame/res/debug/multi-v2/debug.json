@@ -1,0 +1,1534 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "3,5,4,296,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45,44,46,47,48,49,50,51,52,297,53,54,55,56,57,58,59,60,61,298,62,63,64,65,66,67,68,69,2,70,70,87,87,94,94,99,100,299,300,280,301,101,104,102,284,103,104,107,108,109,110,111,112,113,114,115,115,117,117,119,121,122,123,124,125,126,126,128,129,130,131,133,134,135,331,302,329,330,328,136,137,138,139,140,141,303,142,143,144,292,145,146,147,148,149,150,151,152,153,154,304,155,156,157,158,159,160,161,162,163,164,165,166,167,167,169,170,171,172,305,173,278,174,175,176,264,177,265,266,267,268,269,270,271,272,273,276,275,274,327,326,325,293,263,178,306,179,180,181,182,183,324,323,322,321,262,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,320,319,318,209,317,316,210,211,212,213,214,215,216,217,218,219,312,311,220,221,222,223,224,310,309,225,226,227,228,261,260,259,313,258,257,256,255,280,254,314,253,315,252,229,230,294,295,231,232,233,249,250,307,277,278,251,247,308,246,245,244,243,242,241,239,240,248,234,235,236,237,238",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,42,4,56,4,60,4,4,4,4,89,4,4,71,4,20,4,4,4,4,4,4,4,4,4,4,4,58,4,67,60,4,4,4,4,4,70,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,67,4,4,4,4,4,4,65,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "99,215,145,17380,275,321,373,419,475,530,584,632,691,772,842,919,996,1080,1138,1197,1243,1296,1357,1410,1474,1524,1584,1644,1699,1745,1793,1850,1897,1965,2011,2059,2101,2159,2216,2275,2324,2384,2490,2431,2534,2585,2662,2712,2763,2808,2858,17432,2916,2980,3034,3091,3148,3215,3271,3325,3385,17489,3430,3481,3532,3583,3644,3701,3759,3809,57,3867,3905,4888,4940,5218,5274,5500,5562,17558,17651,16703,17720,5621,5858,5682,16880,5734,5791,5999,6060,6112,6167,6238,6304,6386,6466,6533,6587,6673,6736,6868,6944,7007,7061,7118,7172,7297,7231,7387,7446,7507,7565,7633,7695,7755,19469,17938,19359,19414,19310,7815,7875,7944,8012,8095,8173,18012,8256,8320,8390,17167,8454,8515,8582,8649,8710,8781,8860,8923,8983,9039,18073,9094,9147,9205,9290,9344,9403,9472,9534,9600,9673,9731,9807,9874,9937,10014,10067,10124,10180,18139,10237,16533,10303,10377,10438,15488,10500,15559,15636,15717,15791,15885,15951,16026,16101,16158,16338,16277,16219,19266,19227,19185,17238,15432,10564,18209,10610,10655,10701,10756,10803,19141,19099,19060,19017,15390,10846,10899,10952,11007,11065,11114,11170,11219,11270,11334,11394,11454,11496,11538,11585,11636,11687,11744,11816,11857,11909,11989,12052,12150,12197,18972,18924,18879,12271,18836,18793,12329,12396,12463,12511,12571,12614,12674,12736,12814,12887,18578,18517,12949,13006,13072,13123,13166,18449,18407,13214,13258,13309,13364,15330,15264,15209,18639,15137,15069,15008,14947,16618,14908,18698,14837,18740,14784,13418,13460,17289,17332,13508,13564,13610,14585,14632,18258,16405,16472,14696,14458,18347,14391,14332,14270,14207,14152,14086,13973,14033,14525,13656,13713,13771,13852,13915",
+                        "endLines": "3,5,4,296,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45,44,46,47,48,49,50,51,52,297,53,54,55,56,57,58,59,60,61,298,62,63,64,65,66,67,68,69,2,70,86,87,93,94,98,99,100,299,300,284,301,101,106,102,291,103,104,107,108,109,110,111,112,113,114,115,116,117,119,120,121,122,123,124,125,127,126,128,129,130,132,133,134,135,331,302,329,330,328,136,137,138,139,140,141,303,142,143,144,292,145,146,147,148,149,150,151,152,153,154,304,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,305,173,279,174,175,176,264,177,265,266,267,268,269,270,271,272,273,276,275,274,327,326,325,293,263,178,306,179,180,181,182,183,324,323,322,321,262,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,320,319,318,209,317,316,210,211,212,213,214,215,216,217,218,219,312,311,220,221,222,223,224,310,309,225,226,227,228,261,260,259,313,258,257,256,255,280,254,314,253,315,252,229,230,294,295,231,232,233,249,250,307,277,278,251,247,308,246,245,244,243,242,241,239,240,248,234,235,236,237,238",
+                        "endColumns": "44,58,68,50,44,50,44,54,53,52,46,57,79,68,75,75,82,56,57,44,51,59,51,62,48,58,58,53,44,46,55,45,66,44,46,40,56,55,57,47,58,45,42,57,49,75,48,49,43,48,56,55,62,52,55,55,65,54,52,58,43,67,49,49,49,59,55,56,48,56,40,42,12,56,36,60,55,60,57,91,67,20,216,59,39,50,33,55,71,59,50,53,69,64,80,78,65,58,20,67,60,15,61,52,55,52,57,28,70,57,59,56,17,60,58,58,42,72,53,53,47,58,67,66,81,76,81,59,62,68,62,69,59,65,65,59,69,77,61,58,54,53,64,51,56,83,52,57,67,60,64,71,56,74,65,67,21,51,55,54,55,68,64,18,72,59,60,69,62,75,79,72,92,64,73,73,55,59,65,59,56,42,37,40,49,54,44,47,43,44,53,45,41,42,40,37,41,40,51,51,53,56,47,54,47,49,62,58,58,40,40,45,49,49,55,70,39,50,78,61,96,45,72,43,46,43,56,41,41,65,65,46,58,41,58,60,76,71,60,59,59,55,64,49,41,46,66,40,42,49,53,52,58,64,53,57,70,66,59,59,89,37,40,69,51,51,40,46,41,46,54,44,44,45,62,87,65,65,86,65,58,65,57,60,61,53,64,58,51,58,55,56,79,61,56",
+                        "endOffsets": "139,269,209,17426,315,367,413,469,524,578,626,685,766,836,913,990,1074,1132,1191,1237,1290,1351,1404,1468,1518,1578,1638,1693,1739,1787,1844,1891,1959,2005,2053,2095,2153,2210,2269,2318,2378,2425,2528,2484,2579,2656,2706,2757,2802,2852,2910,17483,2974,3028,3085,3142,3209,3265,3319,3379,3424,17552,3475,3526,3577,3638,3695,3753,3803,3861,93,3905,4882,4940,5212,5274,5494,5556,5615,17645,17714,16880,17932,5676,5993,5728,17161,5785,5858,6054,6106,6161,6232,6298,6380,6460,6527,6587,6667,6736,6868,6938,7001,7055,7112,7166,7225,7381,7297,7440,7501,7559,7627,7689,7749,7809,19507,18006,19408,19463,19353,7869,7938,8006,8089,8167,8250,18067,8314,8384,8448,17232,8509,8576,8643,8704,8775,8854,8917,8977,9033,9088,18133,9141,9199,9284,9338,9397,9466,9528,9594,9667,9725,9801,9868,9937,10008,10061,10118,10174,10231,18203,10297,16612,10371,10432,10494,15553,10558,15630,15711,15785,15879,15945,16020,16095,16152,16213,16399,16332,16271,19304,19260,19221,17283,15482,10604,18252,10649,10695,10750,10797,10840,19179,19135,19093,19054,15426,10893,10946,11001,11059,11108,11164,11213,11264,11328,11388,11448,11490,11532,11579,11630,11681,11738,11810,11851,11903,11983,12046,12144,12191,12265,19011,18966,18918,12323,18873,18830,12390,12457,12505,12565,12608,12668,12730,12808,12881,12943,18633,18572,13000,13066,13117,13160,13208,18511,18443,13252,13303,13358,13412,15384,15324,15258,18692,15203,15131,15063,15002,16703,14941,18734,14902,18787,14831,13454,13502,17326,17374,13558,13604,13650,14626,14690,18341,16466,16533,14778,14519,18401,14452,14385,14326,14264,14201,14146,14027,14080,14579,13707,13765,13846,13909,13967"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,91,92,99,100,105,106,107,108,109,114,115,116,119,120,128,129,130,131,132,133,134,135,136,137,138,139,141,142,145,147,148,149,150,151,152,154,155,156,157,158,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,205,206,207,208,209,210,211,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,159,228,279,324,375,420,475,529,582,629,687,767,836,912,988,1071,1128,1186,1231,1283,1343,1395,1458,1507,1566,1625,1679,1724,1771,1827,1873,1940,1985,2032,2073,2130,2186,2244,2292,2351,2397,2440,2498,2548,2624,2673,2723,2767,2816,2873,2929,2992,3045,3101,3157,3223,3278,3331,3390,3434,3502,3552,3602,3652,3712,3768,3825,3874,3931,3972,4015,4981,5038,5309,5370,5591,5652,5710,5802,5870,6048,6265,6325,6463,6514,6793,6849,6921,6981,7032,7086,7156,7221,7302,7381,7447,7506,7590,7658,7793,7867,7929,7982,8038,8091,8149,8237,8308,8366,8426,8483,8549,8610,8669,8728,8771,8838,8892,8946,8994,9053,9121,9188,9270,9347,9429,9489,9552,9621,9684,9754,9814,9880,9946,10006,10076,10154,10216,10275,10330,10384,10449,10501,10558,10642,10695,10753,10821,10882,10947,11019,11076,11151,11217,11285,11360,11412,11468,11523,11579,11648,11713,11796,11869,11929,11990,12060,12123,12199,12279,12352,12445,12510,12584,12658,12714,12774,12840,12900,12957,13000,13038,13079,13129,13184,13229,13277,13321,13366,13420,13466,13508,13551,13592,13630,13672,13713,13765,13817,13871,13928,13976,14031,14079,14129,14192,14251,14310,14351,14392,14438,14488,14538,14594,14665,14705,14756,14835,14897,14994,15040,15113,15157,15204,15248,15305,15347,15389,15455,15521,15568,15627,15669,15728,15789,15866,15938,15999,16059,16119,16175,16240,16290,16332,16379,16446,16487,16530,16580,16634,16687,16746,16811,16865,16923,16994,17061,17121,17181,17271,17309,17350,17420,17472,17524,17565,17612,17654,17701,17756,17801,17846,17892,17955,18043,18109,18175,18262,18328,18387,18453,18511,18572,18634,18688,18753,18812,18864,18923,18979,19036,19116,19178",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,90,91,98,99,104,105,106,107,108,113,114,115,118,119,127,128,129,130,131,132,133,134,135,136,137,138,140,141,144,146,147,148,149,150,151,153,154,155,156,157,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,204,205,206,207,208,209,210,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343",
+                        "endColumns": "44,58,68,50,44,50,44,54,53,52,46,57,79,68,75,75,82,56,57,44,51,59,51,62,48,58,58,53,44,46,55,45,66,44,46,40,56,55,57,47,58,45,42,57,49,75,48,49,43,48,56,55,62,52,55,55,65,54,52,58,43,67,49,49,49,59,55,56,48,56,40,42,12,56,36,60,55,60,57,91,67,20,216,59,39,50,33,55,71,59,50,53,69,64,80,78,65,58,20,67,60,15,61,52,55,52,57,28,70,57,59,56,17,60,58,58,42,66,53,53,47,58,67,66,81,76,81,59,62,68,62,69,59,65,65,59,69,77,61,58,54,53,64,51,56,83,52,57,67,60,64,71,56,74,65,67,21,51,55,54,55,68,64,18,72,59,60,69,62,75,79,72,92,64,73,73,55,59,65,59,56,42,37,40,49,54,44,47,43,44,53,45,41,42,40,37,41,40,51,51,53,56,47,54,47,49,62,58,58,40,40,45,49,49,55,70,39,50,78,61,96,45,72,43,46,43,56,41,41,65,65,46,58,41,58,60,76,71,60,59,59,55,64,49,41,46,66,40,42,49,53,52,58,64,53,57,70,66,59,59,89,37,40,69,51,51,40,46,41,46,54,44,44,45,62,87,65,65,86,65,58,65,57,60,61,53,64,58,51,58,55,56,79,61,56",
+                        "endOffsets": "95,154,223,274,319,370,415,470,524,577,624,682,762,831,907,983,1066,1123,1181,1226,1278,1338,1390,1453,1502,1561,1620,1674,1719,1766,1822,1868,1935,1980,2027,2068,2125,2181,2239,2287,2346,2392,2435,2493,2543,2619,2668,2718,2762,2811,2868,2924,2987,3040,3096,3152,3218,3273,3326,3385,3429,3497,3547,3597,3647,3707,3763,3820,3869,3926,3967,4010,4976,5033,5304,5365,5586,5647,5705,5797,5865,6043,6260,6320,6458,6509,6788,6844,6916,6976,7027,7081,7151,7216,7297,7376,7442,7501,7585,7653,7788,7862,7924,7977,8033,8086,8144,8232,8303,8361,8421,8478,8544,8605,8664,8723,8766,8833,8887,8941,8989,9048,9116,9183,9265,9342,9424,9484,9547,9616,9679,9749,9809,9875,9941,10001,10071,10149,10211,10270,10325,10379,10444,10496,10553,10637,10690,10748,10816,10877,10942,11014,11071,11146,11212,11280,11355,11407,11463,11518,11574,11643,11708,11791,11864,11924,11985,12055,12118,12194,12274,12347,12440,12505,12579,12653,12709,12769,12835,12895,12952,12995,13033,13074,13124,13179,13224,13272,13316,13361,13415,13461,13503,13546,13587,13625,13667,13708,13760,13812,13866,13923,13971,14026,14074,14124,14187,14246,14305,14346,14387,14433,14483,14533,14589,14660,14700,14751,14830,14892,14989,15035,15108,15152,15199,15243,15300,15342,15384,15450,15516,15563,15622,15664,15723,15784,15861,15933,15994,16054,16114,16170,16235,16285,16327,16374,16441,16482,16525,16575,16629,16682,16741,16806,16860,16918,16989,17056,17116,17176,17266,17304,17345,17415,17467,17519,17560,17607,17649,17696,17751,17796,17841,17887,17950,18038,18104,18170,18257,18323,18382,18448,18506,18567,18629,18683,18748,18807,18859,18918,18974,19031,19111,19173,19230"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "286",
+                        "startColumns": "4",
+                        "startOffsets": "17682",
+                        "endColumns": "100",
+                        "endOffsets": "17778"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values-es/strings.xml",
+                    "from": {
+                        "startLines": "206,187,185,155,172,158,156,149,165,150,161,163,199,192,175,193,204,200,145,144,153,176,147,179,152,168,174,148,154,157,169,159,142,201,205,190,188,170,171,191,203,197,182,202,195,194,196,173,183,146,177,160,178,167,180,143,24,25,391,385,408,407,364,363,381,417,421,416,346,345,333,332,344,343,300,302,305,303,324,323,356,355,331,330,341,340,337,335,362,373,371,358,360,359,383,382,433,431,432,434,287,282,280,291,289,276,296,247,241,271,278,238,229,262,249,266,284,279,233,246,295,234,209,231,210,274,236,212,217,252,244,242,254,273,265,264,240,293,215,267,286,226,228,222,220,218,224,256,260,258,213,269,251,56,66,68,65,131,67,63,97,64,122,110,112,52,132,133,134,135,119,92,117,53,84,47,60,123,76,80,85,106,99,87,89,88,50,54,55,91,98,116,107,90,62,129,102,104,105,61,83,127,124,108,109,111,51,118,73,74,125,126,82,128,136,138,101,113,114,86,57,58,75,59,120,121,72,71,70,69,48,77,93,95,42,31,33,30,34,37,38,36,28,44,29,39,40,35,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "11716,10441,10294,8449,9511,8639,8500,8113,9041,8188,8828,8935,11251,10761,9703,10827,11574,11322,7853,7781,8339,9757,7990,9943,8286,9224,9647,8057,8408,8576,9307,8689,7660,11386,11662,10663,10525,9380,9444,10710,11522,11154,10118,11457,10990,10907,11074,9576,10183,7936,9809,8765,9872,9154,10013,7718,788,829,23000,22681,24026,23954,21395,21312,22423,24668,24912,24592,20166,20103,19333,19265,20016,19951,17416,17550,17731,17625,18682,18588,20853,20776,19183,19118,19851,19775,19578,19479,21237,21932,21836,20986,21132,21063,22577,22504,25603,25468,25546,25646,16664,16341,16224,16899,16768,15949,17287,14111,13736,15638,16079,13552,13028,15057,14235,15307,16474,16156,13230,14039,17200,13301,11796,13129,11869,15849,13446,11974,12275,14460,13928,13817,14580,15772,15234,15156,13654,17037,12170,15385,16579,12839,12953,12603,12476,12357,12726,14723,14937,14820,12062,15508,14385,2587,3160,3275,3112,7107,3221,3013,5001,3060,6616,5903,5987,2401,7154,7211,7268,7327,6457,4713,6331,2447,4273,2089,2790,6659,3763,4012,4360,5653,5172,4446,4540,4493,2274,2501,2544,4635,5085,6268,5720,4590,2934,7007,5373,5481,5569,2860,4188,6888,6704,5781,5836,5946,2354,6392,3569,3641,6749,6810,4123,6949,7400,7508,5291,6028,6110,4404,2627,2668,3697,2735,6520,6560,3504,3453,3404,3358,2170,3808,4785,4893,1876,1098,1252,1025,1335,1561,1622,1490,907,1987,959,1695,1774,1408,1181",
+                        "endLines": "206,187,186,155,172,158,156,149,166,151,162,164,199,192,175,193,204,200,145,144,153,176,147,179,152,168,174,148,154,157,169,159,142,201,205,190,189,170,171,191,203,198,182,202,195,194,196,173,184,146,177,160,178,167,181,143,24,25,406,385,415,407,370,363,381,420,428,416,354,345,334,332,344,343,301,302,322,304,329,323,357,355,331,330,342,340,339,336,362,380,372,358,361,359,384,382,433,431,432,434,288,283,281,292,290,277,297,248,241,272,278,239,230,263,250,266,285,279,233,246,295,235,209,232,211,275,237,212,217,253,245,243,255,273,265,264,240,294,216,268,286,227,228,223,221,219,225,257,261,259,214,270,251,56,66,68,65,131,67,63,97,64,122,110,112,52,132,133,134,135,119,92,117,53,84,47,60,123,76,81,85,106,100,87,89,88,50,54,55,91,98,116,107,90,62,130,103,104,105,61,83,127,124,108,109,111,51,118,73,74,125,126,82,128,137,139,101,113,115,86,57,58,75,59,120,121,72,71,70,69,49,79,94,96,43,31,33,30,34,37,38,36,28,44,29,39,41,35,32",
+                        "endColumns": "50,83,73,50,64,49,75,74,35,30,32,32,70,65,53,79,87,63,82,71,68,51,66,69,52,82,55,55,40,62,72,75,57,70,53,46,59,63,66,50,51,26,64,64,83,82,79,70,36,53,62,62,70,69,27,62,40,47,46,60,60,71,59,82,80,34,75,75,38,62,69,67,86,64,54,74,41,31,44,93,57,76,81,64,27,75,51,24,74,41,26,76,29,68,38,72,42,77,56,49,30,57,41,60,60,58,27,47,80,58,76,32,28,26,69,77,30,67,70,71,86,67,72,51,39,26,37,87,81,46,37,28,69,76,72,77,81,81,27,44,84,39,74,48,49,39,37,26,47,41,40,55,74,39,60,82,47,46,53,46,83,51,42,42,40,45,56,56,58,72,62,71,60,53,86,80,69,44,44,34,43,66,33,46,49,46,79,42,42,77,86,62,60,44,78,34,32,87,83,73,84,60,44,54,66,40,46,64,71,55,60,77,64,57,53,52,81,81,78,41,40,66,65,54,39,55,64,50,48,45,29,51,28,28,37,82,82,72,72,60,72,70,51,67,65,78,30,81,70",
+                        "endOffsets": "11762,10520,10436,8495,9571,8684,8571,8183,9149,8281,8930,9036,11317,10822,9752,10902,11657,11381,7931,7848,8403,9804,8052,10008,8334,9302,9698,8108,8444,8634,9375,8760,7713,11452,11711,10705,10658,9439,9506,10756,11569,11246,10178,11517,11069,10985,11149,9642,10289,7985,9867,8823,9938,9219,10113,7776,824,872,23949,22737,24587,24021,21831,21390,22499,24907,25443,24663,20771,20161,19474,19328,20098,20011,17545,17620,18583,17726,19113,18677,20981,20848,19260,19178,19946,19846,19770,19573,21307,22418,21927,21058,21232,21127,22676,22572,25641,25541,25598,25691,16763,16469,16336,17032,16894,16074,17381,14230,13812,15767,16151,13649,13124,15151,14380,15380,16574,16219,13296,14106,17282,13441,11864,13225,11969,15944,13547,12057,12352,14575,14034,13923,14718,15844,15302,15229,13731,17195,12270,15503,16659,12948,13023,12721,12598,12471,12834,14815,15052,14932,12165,15633,14455,2622,3216,3353,3155,7149,3270,3055,5080,3107,6654,5941,6023,2442,7206,7263,7322,7395,6515,4780,6387,2496,4355,2165,2855,6699,3803,4118,4399,5715,5286,4488,4585,4535,2349,2539,2582,4708,5167,6326,5776,4630,3008,7102,5476,5564,5648,2929,4268,6944,6744,5831,5898,5982,2396,6452,3636,3692,6805,6883,4183,7002,7503,7607,5368,6105,6263,4441,2663,2730,3758,2785,6555,6611,3564,3499,3448,3399,2269,4007,4888,4996,1982,1176,1330,1093,1403,1617,1690,1556,954,2050,1020,1769,1871,1485,1247"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6,7,8,9,10,11,13,15,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45,46,47,48,49,51,52,53,54,55,56,57,59,60,61,62,63,64,66,67,68,69,85,86,94,95,102,103,104,108,116,117,126,127,129,130,131,132,134,135,153,155,161,162,164,165,166,167,169,170,173,175,176,184,186,187,189,190,192,193,194,195,196,197,199,201,203,205,207,209,211,213,214,216,217,219,221,223,225,226,228,229,230,231,232,234,235,237,239,241,243,244,245,247,249,251,253,254,255,256,257,259,261,263,264,266,267,269,271,273,275,277,279,281,283,285,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,315,316,317,319,320,321,322,323,324,325,326,327,328,329,330,331,333,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,354,356,357,358,360,361,362,363,364,365,366,367,368,369,370,371,373,376,378,380,382,383,384,385,386,387,388,389,390,391,392,393,395,396",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,190,337,388,453,503,579,654,767,865,972,1078,1149,1215,1269,1349,1437,1501,1584,1656,1725,1777,1844,1914,1967,2050,2100,2156,2197,2260,2333,2409,2467,2538,2592,2639,2777,2841,2908,2959,3011,3108,3173,3238,3322,3405,3485,3556,3667,3721,3784,3847,3918,3988,4093,4156,4197,4245,5157,5218,5778,5850,6291,6374,6455,6699,7235,7311,7921,7984,8130,8198,8285,8350,8484,8559,9344,9450,9886,9980,10113,10190,10272,10337,10437,10513,10710,10809,10884,11375,11471,11548,11653,11722,11826,11899,11942,12014,12071,12121,12225,12358,12475,12613,12744,12874,12973,13097,13178,13312,13389,13491,13592,13691,13841,13919,14024,14092,14163,14235,14322,14467,14540,14641,14746,14846,14952,15040,15122,15242,15353,15464,15601,15678,15751,15829,15911,16068,16173,16296,16381,16495,16570,16693,16820,16939,17047,17144,17264,17381,17477,17607,17783,17823,17884,17967,18015,18062,18116,18163,18247,18299,18342,18385,18426,18472,18529,18586,18645,18718,18781,18853,18914,18968,19055,19136,19206,19251,19296,19407,19451,19518,19637,19684,19734,19781,19861,19904,19947,20025,20112,20175,20236,20281,20360,20460,20568,20656,20740,20814,20899,20960,21005,21060,21127,21168,21215,21280,21352,21408,21469,21547,21612,21670,21778,21882,21964,22046,22204,22246,22287,22354,22420,22475,22515,22571,22636,22687,22736,22782,22880,23084,23192,23300,23411,23494,23577,23650,23723,23784,23857,23928,23980,24048,24114,24193,24295,24377",
+                        "endLines": "2,3,5,6,7,8,9,10,12,14,16,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,44,45,46,47,48,50,51,52,53,54,55,56,58,59,60,61,62,63,65,66,67,68,84,85,93,94,101,102,103,107,115,116,125,126,128,129,130,131,133,134,152,154,160,161,163,164,165,166,168,169,172,174,175,183,185,186,188,189,191,192,193,194,195,196,198,200,202,204,206,208,210,212,213,215,216,218,220,222,224,225,227,228,229,230,231,233,234,236,238,240,242,243,244,246,248,250,252,253,254,255,256,258,260,262,263,265,266,268,270,272,274,276,278,280,282,284,285,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,314,315,316,318,319,320,321,322,323,324,325,326,327,328,329,330,332,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,353,355,356,357,359,360,361,362,363,364,365,366,367,368,369,370,372,375,377,379,381,382,383,384,385,386,387,388,389,390,391,392,394,395,396",
+                        "endColumns": "50,83,73,50,64,49,75,74,35,30,32,32,70,65,53,79,87,63,82,71,68,51,66,69,52,82,49,55,40,62,72,75,57,70,53,46,59,63,66,50,51,26,64,64,83,82,79,70,36,53,62,62,70,69,27,62,40,47,46,60,54,71,59,82,80,34,75,75,38,62,69,67,86,64,54,74,35,31,44,93,57,76,81,64,27,75,51,24,74,41,26,76,29,68,38,72,42,71,56,49,30,57,41,60,60,58,27,47,80,58,76,32,28,26,69,77,30,67,70,71,86,67,72,51,39,26,37,87,81,46,37,28,63,76,72,77,81,81,27,44,84,39,74,48,49,39,32,26,47,41,34,55,74,39,60,82,47,46,53,46,83,51,42,42,40,45,56,56,58,72,62,71,60,53,86,80,69,44,44,34,43,66,33,46,49,46,79,42,42,77,86,62,60,44,78,34,32,87,83,73,84,60,44,54,66,40,46,64,71,55,60,77,64,57,53,52,81,81,78,41,40,66,65,54,39,55,64,50,48,45,29,51,28,28,37,82,82,72,72,60,72,70,51,67,65,78,30,81,70",
+                        "endOffsets": "101,185,332,383,448,498,574,649,762,860,967,1073,1144,1210,1264,1344,1432,1496,1579,1651,1720,1772,1839,1909,1962,2045,2095,2151,2192,2255,2328,2404,2462,2533,2587,2634,2772,2836,2903,2954,3006,3103,3168,3233,3317,3400,3480,3551,3662,3716,3779,3842,3913,3983,4088,4151,4192,4240,5152,5213,5773,5845,6286,6369,6450,6694,7230,7306,7916,7979,8125,8193,8280,8345,8479,8554,9339,9445,9881,9975,10108,10185,10267,10332,10432,10508,10705,10804,10879,11370,11466,11543,11648,11717,11821,11894,11937,12009,12066,12116,12220,12353,12470,12608,12739,12869,12968,13092,13173,13307,13384,13486,13587,13686,13836,13914,14019,14087,14158,14230,14317,14462,14535,14636,14741,14841,14947,15035,15117,15237,15348,15459,15596,15673,15746,15824,15906,16063,16168,16291,16376,16490,16565,16688,16815,16934,17042,17139,17259,17376,17472,17602,17677,17818,17879,17962,18010,18057,18111,18158,18242,18294,18337,18380,18421,18467,18524,18581,18640,18713,18776,18848,18909,18963,19050,19131,19201,19246,19291,19402,19446,19513,19632,19679,19729,19776,19856,19899,19942,20020,20107,20170,20231,20276,20355,20455,20563,20651,20735,20809,20894,20955,21000,21055,21122,21163,21210,21275,21347,21403,21464,21542,21607,21665,21773,21877,21959,22041,22199,22241,22282,22349,22415,22470,22510,22566,22631,22682,22731,22777,22875,23079,23187,23295,23406,23489,23572,23645,23718,23779,23852,23923,23975,24043,24109,24188,24290,24372,24443"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,8,9,10,11,12,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "94,198,262,329,454,570,696,822,950,1122",
+                        "endLines": "3,4,5,6,8,9,10,11,14,19",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "193,257,324,388,565,691,817,945,1117,1455"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values-v21/colors.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "761",
+                        "endColumns": "38",
+                        "endOffsets": "795"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "761",
+                        "endColumns": "61",
+                        "endOffsets": "818"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "393",
+                        "endColumns": "60",
+                        "endOffsets": "449"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values/access_conditions.xml",
+                    "from": {
+                        "startLines": "24,26,28,30,32,34,36,38,42,44,46,48,52,55,58,61,64,67,70,73",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "810,918,1032,1142,1245,1357,1465,1577,1761,1869,1989,2105,2282,2440,2606,2770,2942,3096,3256,3424",
+                        "endLines": "25,27,29,31,33,35,37,39,43,45,47,49,54,57,60,63,66,69,72,75",
+                        "endColumns": "71,77,73,66,75,71,75,79,63,75,71,79,46,50,50,54,46,50,54,54",
+                        "endOffsets": "913,1027,1137,1240,1352,1460,1572,1688,1864,1984,2100,2224,2435,2601,2765,2937,3091,3251,3419,3591"
+                    },
+                    "to": {
+                        "startLines": "51,53,55,57,59,61,63,65,67,69,71,73,75,78,81,84,87,90,93,96",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2891,2999,3113,3223,3326,3438,3546,3658,3774,3882,4002,4118,4242,4400,4566,4730,4902,5056,5216,5384",
+                        "endLines": "52,54,56,58,60,62,64,66,68,70,72,74,77,80,83,86,89,92,95,98",
+                        "endColumns": "71,77,73,66,75,71,75,79,63,75,71,79,46,50,50,54,46,50,54,54",
+                        "endOffsets": "2994,3108,3218,3321,3433,3541,3653,3769,3877,3997,4113,4237,4395,4561,4725,4897,5051,5211,5379,5551"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "256,231,229,234,264,192,211,195,193,259,268,269,248,260,186,202,187,198,200,204,249,239,214,240,254,250,257,261,182,181,190,215,184,267,219,189,207,265,213,185,191,194,208,196,179,251,255,226,237,262,263,232,209,210,238,253,244,246,247,245,223,252,242,241,243,212,266,224,183,236,227,216,197,218,217,206,221,180,220,24,25,456,455,484,483,436,435,451,508,507,512,520,511,537,536,419,418,569,568,564,563,583,582,407,406,417,416,377,379,381,380,394,393,551,550,429,428,578,577,493,492,547,546,529,534,528,405,404,415,414,411,409,434,559,558,444,443,431,500,499,433,432,453,452,594,593,591,588,589,590,592,350,346,344,354,352,340,364,359,309,303,335,342,300,292,327,311,313,330,348,374,343,296,365,308,358,371,370,297,272,294,273,338,299,275,280,316,306,304,318,361,337,372,368,329,328,366,302,367,356,278,331,349,289,291,285,283,281,287,321,325,323,362,276,333,363,315,147,58,68,70,67,136,69,65,103,66,128,116,118,148,158,54,137,167,138,139,140,125,98,123,55,172,90,50,62,175,173,159,163,129,79,152,145,146,149,83,91,112,154,150,85,151,105,93,95,94,52,56,57,97,104,122,113,96,170,64,135,108,110,111,155,156,63,89,133,130,171,114,115,117,53,124,76,77,131,132,88,134,165,141,143,107,119,120,92,59,60,174,157,162,78,166,80,61,126,127,75,74,73,72,51,168,81,164,99,101,169,42,31,46,47,33,45,30,34,37,38,36,28,44,29,39,40,35,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "14556,12925,12794,13139,14996,10607,11717,10789,10656,14697,15299,15376,14051,14764,10284,11172,10354,10966,11070,11278,14112,13422,11908,13485,14425,14179,14605,14817,10059,9987,10502,11957,10173,15212,12193,10448,11457,15054,11851,10226,10566,10724,11538,10838,9879,14238,14505,12589,13330,14874,14941,13018,11601,11658,13375,14373,13774,13927,13991,13851,12430,14309,13636,13555,13702,11778,15135,12491,10126,13247,12682,12006,10907,12136,12065,11394,12329,9932,12258,788,829,26939,26878,28251,28180,25691,25610,26638,30092,30011,30359,30632,30284,31657,31602,24555,24489,33611,33539,33267,33187,34837,34764,23792,23724,24409,24350,22005,22138,22300,22211,23108,23023,32449,32378,25207,25140,34416,34343,28839,28756,32238,32160,31219,31487,31144,23647,23586,24269,24204,24022,23927,25549,32980,32899,26199,26119,25320,29428,29345,25459,25388,26783,26714,35464,35396,35303,35111,35189,35246,35346,20217,19931,19831,20438,20315,19579,21168,20812,17691,17331,19281,19693,17141,16671,18757,17818,17945,18984,20050,21905,19766,16873,21250,17622,20731,21703,21613,16943,15476,16774,15537,19480,17057,15647,15929,18155,17519,17416,18270,20916,19399,21787,21497,18909,18836,21328,17244,21425,20569,15828,19064,20134,16487,16598,16252,16127,16015,16373,18432,18640,18530,20999,15731,19165,21074,18079,7819,2715,3259,3370,3211,7230,3320,3115,5247,3162,6770,6091,6175,7857,8509,2529,7277,9127,7333,7389,7447,6614,4981,6495,2574,9519,4558,2249,2918,9726,9582,8551,8838,6814,3854,8094,7715,7767,7895,4100,4643,5849,8214,7962,4210,8041,5402,4725,4815,4770,2410,2629,2672,4908,5325,6441,5908,4863,9350,3047,7150,5591,5699,5777,8295,8375,2984,4479,7032,6857,9433,5969,6024,6134,2482,6550,3669,3739,6902,6963,4416,7092,8993,7519,7620,5513,6216,6294,4686,2755,2796,9658,8455,8779,3793,9048,3897,2863,6676,6716,3606,3555,3506,3459,2323,9198,3942,8925,5049,5148,9285,1821,1091,2062,2129,1233,1999,1024,1311,1526,1588,1461,911,1932,963,1658,1719,1380,1170",
+                        "endLines": "256,231,230,235,264,192,211,195,193,259,268,269,248,260,186,203,188,199,201,205,249,239,214,240,254,250,258,261,182,181,190,215,184,267,219,189,207,265,213,185,191,194,208,196,179,251,255,226,237,262,263,233,209,210,238,253,244,246,247,245,223,252,242,241,243,212,266,225,183,236,228,216,197,218,217,206,222,180,220,24,25,482,455,491,483,442,435,451,510,507,519,527,511,545,536,427,418,576,568,567,563,585,582,408,406,417,416,378,379,392,380,403,393,557,550,430,428,581,577,498,492,549,546,533,535,528,405,404,415,414,413,410,434,562,558,450,443,431,506,499,433,432,454,452,594,593,591,588,589,590,592,351,347,345,355,353,341,364,360,310,303,336,342,301,293,327,312,314,330,348,374,343,296,365,308,358,371,370,298,272,295,274,339,299,275,280,317,307,305,320,361,337,373,369,329,328,366,302,367,357,279,332,349,290,291,286,284,282,288,322,326,324,362,277,334,363,315,147,58,68,71,67,136,69,65,103,66,128,116,118,148,158,54,137,167,138,139,140,125,98,123,55,172,90,50,62,176,173,161,163,129,79,152,145,146,149,84,91,112,154,150,87,151,106,93,95,94,52,56,57,97,104,122,113,96,170,64,135,109,110,111,155,156,63,89,133,130,171,114,115,117,53,124,76,77,131,132,88,134,165,142,144,107,119,121,92,59,60,174,157,162,78,166,80,61,126,127,75,74,73,72,51,168,82,164,100,102,169,43,31,46,47,33,45,30,34,37,38,36,28,44,29,39,41,35,32",
+                        "endColumns": "48,92,52,25,57,48,60,48,67,66,76,70,60,52,69,27,25,28,27,34,66,62,48,69,79,58,22,56,66,71,63,48,52,86,64,53,80,80,56,57,40,64,62,68,52,70,50,92,44,66,54,43,56,58,46,51,76,63,59,75,60,63,65,80,71,72,76,25,46,82,40,58,58,56,70,62,35,54,70,40,51,17,60,52,70,60,80,75,41,80,17,73,74,13,54,47,65,71,71,13,79,73,72,58,67,79,58,58,72,17,88,17,84,13,70,34,66,88,72,38,82,13,77,30,40,74,76,60,80,64,35,31,60,13,80,39,79,67,78,82,89,70,31,68,84,67,42,77,56,56,49,28,55,35,56,56,41,81,26,47,84,38,72,26,23,78,56,57,79,83,69,64,69,77,68,80,83,89,37,60,45,34,30,83,83,85,44,37,30,63,82,80,29,27,74,72,96,86,71,84,31,38,82,35,72,53,59,39,38,30,52,39,74,35,46,93,75,37,39,60,29,47,46,49,46,77,48,43,42,40,37,41,44,55,70,55,57,71,61,67,54,54,62,84,73,65,31,75,80,86,42,42,52,51,51,66,40,42,58,80,78,47,52,31,44,47,44,71,42,42,72,76,53,60,44,82,67,79,40,77,71,79,79,62,78,59,44,85,54,66,40,46,63,69,53,60,68,62,57,54,46,43,77,77,68,38,40,66,67,53,58,60,78,44,54,39,53,62,50,48,46,86,86,77,67,26,26,64,37,78,66,85,77,62,66,68,61,69,64,51,66,60,60,30,80,62",
+                        "endOffsets": "14600,13013,12920,13242,15049,10651,11773,10833,10719,14759,15371,15442,14107,14812,10349,11273,10443,11065,11167,11389,14174,13480,11952,13550,14500,14233,14692,14869,10121,10054,10561,12001,10221,15294,12253,10497,11533,15130,11903,10279,10602,10784,11596,10902,9927,14304,14551,12677,13370,14936,14991,13134,11653,11712,13417,14420,13846,13986,14046,13922,12486,14368,13697,13631,13769,11846,15207,12584,10168,13325,12789,12060,10961,12188,12131,11452,12425,9982,12324,824,876,28175,26934,28751,28246,26114,25686,26709,30279,30087,30627,31139,30354,32155,31652,25135,24550,34338,33606,33534,33262,35086,34832,23922,23787,24484,24404,22133,22206,23018,22295,23581,23103,32894,32444,25315,25202,34759,34411,29340,28834,32373,32233,31482,31597,31214,23719,23642,24345,24264,24199,24017,25605,33182,32975,26633,26194,25383,30006,29423,25544,25454,26873,26778,35544,35459,35341,35184,35241,35298,35391,20310,20045,19926,20564,20433,19688,21245,20911,17813,17411,19394,19761,17239,16769,18831,17940,18074,19059,20129,21970,19826,16938,21323,17686,20807,21782,21698,17052,15532,16868,15642,19574,17136,15726,16010,18265,17617,17514,18427,20994,19475,21900,21608,18979,18904,21420,17326,21492,20726,15924,19160,20212,16593,16666,16368,16247,16122,16482,18525,18752,18635,21069,15823,19276,21163,18150,7852,2750,3315,3454,3254,7272,3365,3157,5320,3206,6809,6129,6211,7890,8546,2569,7328,9193,7384,7442,7514,6671,5044,6545,2624,9577,4638,2318,2979,9826,9653,8774,8920,6852,3892,8142,7762,7814,7957,4205,4681,5903,8290,8036,4411,8089,5508,4765,4858,4810,2477,2667,2710,4976,5397,6490,5964,4903,9428,3110,7225,5694,5772,5844,8370,8450,3042,4553,7087,6897,9514,6019,6086,6170,2524,6609,3734,3788,6958,7027,4474,7145,9043,7615,7710,5586,6289,6436,4720,2791,2858,9721,8504,8833,3849,9122,3937,2913,6711,6765,3664,3601,3550,3501,2405,9280,4095,8988,5143,5242,9345,1927,1165,2124,2210,1306,2057,1086,1375,1583,1653,1521,958,1994,1019,1714,1816,1456,1228"
+                    },
+                    "to": {
+                        "startLines": "99,100,101,103,105,106,107,108,109,110,111,112,113,114,115,116,118,120,122,124,126,127,128,129,130,131,132,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,177,178,179,181,182,183,184,185,186,188,189,190,191,192,219,220,228,229,236,237,238,241,242,250,258,259,268,269,278,279,287,288,292,293,296,297,299,300,301,302,304,305,317,318,328,329,336,337,339,340,344,345,351,352,355,356,361,363,364,365,366,367,368,371,373,374,378,379,386,387,388,395,396,397,398,400,401,402,403,404,405,406,407,408,410,412,414,416,418,420,421,423,425,426,428,429,431,433,434,436,438,439,440,441,442,443,444,445,446,447,448,450,451,453,455,457,458,459,460,462,464,466,469,470,471,473,475,476,477,478,479,480,482,484,486,487,489,490,492,494,496,498,500,502,504,505,507,509,510,536,537,538,539,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,568,569,572,573,574,575,576,577,578,579,581,582,583,584,585,588,589,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,630,632,633,634,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,654,656,657,659,661,662,664,665,666,667,668,669,670,671,672,673,674,675,676,677,678,680,681",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5556,5605,5698,5829,5937,5995,6044,6105,6154,6222,6283,6360,6431,6492,6545,6615,6721,6815,6919,7021,7137,7204,7267,7316,7386,7466,7525,7617,7674,7741,7813,7877,7926,7979,8066,8131,8185,8266,8347,8398,8456,8497,8562,8625,8694,8747,8818,8869,8962,9007,9074,9129,9250,9307,9366,9413,9465,9542,9606,9666,9742,9803,9867,9933,10014,10086,10159,10236,10334,10381,10464,10576,10635,10694,10751,10822,10885,10986,11041,11112,11153,11205,12446,12507,13006,13077,13505,13586,13662,13854,13935,14208,14720,14795,15298,15353,15938,16004,16736,16808,17080,17160,17414,17487,17622,17690,17770,17829,17962,18035,18758,18847,19325,19410,19860,19931,20044,20111,20459,20532,21038,21121,21261,21339,21607,21722,21797,21874,21935,22016,22081,22263,22358,22419,22626,22707,23146,23226,23294,23877,23960,24044,24109,24204,24273,24358,24426,24469,24541,24598,24655,24705,24803,24922,25022,25153,25276,25390,25472,25576,25703,25788,25906,25979,26082,26185,26264,26391,26525,26605,26689,26759,26824,26894,26972,27041,27122,27206,27296,27410,27471,27570,27680,27779,27863,27947,28033,28148,28251,28354,28510,28593,28674,28792,28908,28983,29056,29153,29240,29312,29468,29569,29670,29753,29864,29937,30058,30183,30295,30404,30502,30619,30729,30804,30889,31005,31099,32760,32798,32838,32899,32988,33036,33083,33133,33180,33258,33307,33351,33394,33435,33473,33515,33560,33616,33687,33743,33801,33873,33935,34003,34058,34113,34176,34261,34335,34401,34506,34582,34810,34897,34940,34983,35036,35088,35140,35207,35317,35360,35419,35500,35579,35785,35838,35949,35994,36042,36087,36159,36202,36245,36318,36395,36449,36510,36555,36638,36706,36786,36894,36972,37044,37124,37204,37267,37346,37406,37451,37537,37592,37659,37700,37747,37811,37881,37935,37996,38065,38128,38186,38241,38342,38437,38515,38593,38740,38779,38820,38887,38955,39009,39068,39129,39208,39253,39308,39348,39402,39465,39516,39565,39612,39693,39780,39938,40006,40105,40204,40269,40380,40459,40526,40612,40690,40753,40820,40889,40951,41021,41086,41138,41205,41266,41327,41429,41510",
+                        "endLines": "99,100,102,104,105,106,107,108,109,110,111,112,113,114,115,117,119,121,123,125,126,127,128,129,130,131,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,176,177,178,180,181,182,183,184,185,187,188,189,190,191,218,219,227,228,235,236,237,240,241,249,257,258,267,268,277,278,286,287,291,292,295,296,298,299,300,301,303,304,316,317,327,328,335,336,338,339,343,344,350,351,354,355,360,362,363,364,365,366,367,370,372,373,377,378,385,386,387,394,395,396,397,399,400,401,402,403,404,405,406,407,409,411,413,415,417,419,420,422,424,425,427,428,430,432,433,435,437,438,439,440,441,442,443,444,445,446,447,449,450,452,454,456,457,458,459,461,463,465,468,469,470,472,474,475,476,477,478,479,481,483,485,486,488,489,491,493,495,497,499,501,503,504,506,508,509,510,536,537,538,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,567,568,571,572,573,574,575,576,577,578,580,581,582,583,584,587,588,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,629,631,632,633,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653,655,656,658,660,661,663,664,665,666,667,668,669,670,671,672,673,674,675,676,677,679,680,681",
+                        "endColumns": "48,92,52,25,57,48,60,48,67,60,76,70,60,52,69,27,25,28,27,34,66,62,48,69,79,58,22,56,66,71,63,48,52,86,64,53,80,80,50,57,40,64,62,68,52,70,50,92,44,66,54,43,56,58,46,51,76,63,59,75,60,63,65,80,71,72,76,25,46,82,40,58,58,56,70,62,35,54,70,40,51,17,60,46,70,60,80,75,41,80,17,73,74,13,54,47,65,71,71,13,79,73,72,58,67,79,58,58,72,17,88,17,84,13,70,34,66,88,72,38,82,13,77,30,40,74,76,60,80,64,35,31,60,13,80,39,79,67,78,82,83,64,31,68,84,67,42,71,56,56,49,28,55,35,56,56,41,81,26,47,84,38,72,26,23,78,56,57,79,83,69,64,69,77,68,80,83,89,37,60,45,34,30,83,83,85,44,37,30,57,82,80,29,27,74,72,96,86,71,84,31,38,82,35,72,53,59,39,33,30,52,39,74,29,46,93,75,37,39,60,29,47,46,49,46,77,48,43,42,40,37,41,44,55,70,55,57,71,61,67,54,54,62,84,73,65,31,75,80,86,42,42,52,51,51,66,40,42,58,80,78,47,52,31,44,47,44,71,42,42,72,76,53,60,44,82,67,79,40,77,71,79,79,62,78,59,44,85,54,66,40,46,63,69,53,60,68,62,57,54,46,43,77,77,68,38,40,66,67,53,58,60,78,44,54,39,53,62,50,48,46,80,86,77,67,26,26,64,37,78,66,85,77,62,66,68,61,69,64,51,66,60,60,30,80,62",
+                        "endOffsets": "5600,5693,5824,5932,5990,6039,6100,6149,6217,6278,6355,6426,6487,6540,6610,6716,6810,6914,7016,7132,7199,7262,7311,7381,7461,7520,7612,7669,7736,7808,7872,7921,7974,8061,8126,8180,8261,8342,8393,8451,8492,8557,8620,8689,8742,8813,8864,8957,9002,9069,9124,9245,9302,9361,9408,9460,9537,9601,9661,9737,9798,9862,9928,10009,10081,10154,10231,10329,10376,10459,10571,10630,10689,10746,10817,10880,10981,11036,11107,11148,11200,12441,12502,13001,13072,13500,13581,13657,13849,13930,14203,14715,14790,15293,15348,15933,15999,16731,16803,17075,17155,17409,17482,17617,17685,17765,17824,17957,18030,18753,18842,19320,19405,19855,19926,20039,20106,20454,20527,21033,21116,21256,21334,21602,21717,21792,21869,21930,22011,22076,22258,22353,22414,22621,22702,23141,23221,23289,23872,23955,24039,24104,24199,24268,24353,24421,24464,24536,24593,24650,24700,24798,24917,25017,25148,25271,25385,25467,25571,25698,25783,25901,25974,26077,26180,26259,26386,26520,26600,26684,26754,26819,26889,26967,27036,27117,27201,27291,27405,27466,27565,27675,27774,27858,27942,28028,28143,28246,28349,28505,28588,28669,28787,28903,28978,29051,29148,29235,29307,29463,29564,29665,29748,29859,29932,30053,30178,30290,30399,30497,30614,30724,30799,30884,31000,31094,31170,32793,32833,32894,32983,33031,33078,33128,33175,33253,33302,33346,33389,33430,33468,33510,33555,33611,33682,33738,33796,33868,33930,33998,34053,34108,34171,34256,34330,34396,34501,34577,34805,34892,34935,34978,35031,35083,35135,35202,35312,35355,35414,35495,35574,35780,35833,35944,35989,36037,36082,36154,36197,36240,36313,36390,36444,36505,36550,36633,36701,36781,36889,36967,37039,37119,37199,37262,37341,37401,37446,37532,37587,37654,37695,37742,37806,37876,37930,37991,38060,38123,38181,38236,38337,38432,38510,38588,38735,38774,38815,38882,38950,39004,39063,39124,39203,39248,39303,39343,39397,39460,39511,39560,39607,39688,39775,39933,40001,40100,40199,40264,40375,40454,40521,40607,40685,40748,40815,40884,40946,41016,41081,41133,41200,41261,41322,41424,41505,41568"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "761",
+                        "endColumns": "57",
+                        "endOffsets": "814"
+                    },
+                    "to": {
+                        "startLines": "682",
+                        "startColumns": "4",
+                        "startOffsets": "41573",
+                        "endColumns": "56",
+                        "endOffsets": "41625"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values/ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "206",
+                        "endColumns": "56",
+                        "endOffsets": "258"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "22,31,24,29,23,30,25,26,28,32,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "761,1166,869,1075,823,1120,914,955,1037,1210,996",
+                        "endColumns": "61,43,44,44,45,45,40,40,37,39,40",
+                        "endOffsets": "818,1205,909,1115,864,1161,950,991,1070,1245,1032"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6,7,8,11,12,13,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,161,263,308,354,532,573,614,784,824",
+                        "endColumns": "61,43,44,44,45,45,40,40,37,39,40",
+                        "endOffsets": "112,156,201,303,349,395,568,609,647,819,860"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652,319,617,3523,5588,7348",
+                        "endLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178,12,55,87,124,131",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
+                        "endOffsets": "119,182,240,314,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714,612,3518,5583,7343,7720"
+                    },
+                    "to": {
+                        "startLines": "9,10,14,15,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,511,683,684,688,689,693,694,695,696,703,746,778,815",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "400,469,652,710,865,935,1003,1075,1145,1206,1280,1353,1414,1475,1537,1601,1663,1724,1792,1892,1952,2018,2091,2160,2217,2269,2331,2403,2479,2514,2549,2599,2660,2717,2751,2786,2821,31175,41630,41747,41948,42058,42259,42388,42460,42527,42825,45731,47796,49556",
+                        "endLines": "9,10,14,15,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,511,683,687,688,692,693,694,695,702,745,777,814,821",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
+                        "endOffsets": "464,527,705,779,930,998,1070,1140,1201,1275,1348,1409,1470,1532,1596,1658,1719,1787,1887,1947,2013,2086,2155,2212,2264,2326,2398,2474,2509,2544,2594,2655,2712,2746,2781,2816,2886,31241,41742,41943,42053,42254,42383,42455,42522,42820,45726,47791,49551,49928"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/res/values/tag_type_list.xml",
+                    "from": {
+                        "startLines": "42,47,46,41,40,53,37,45,48,43,44,52,36,35,51,34,49,32,57,54,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1747,2054,2000,1685,1629,2421,1508,1933,2144,1809,1871,2372,1428,1346,2321,1277,2230,1176,2583,2472,1030,1078",
+                        "endLines": "42,47,46,41,40,53,37,45,48,43,44,52,36,35,51,34,50,33,57,54,28,29",
+                        "endColumns": "61,89,53,61,55,50,83,66,85,61,61,48,79,81,50,68,42,42,62,68,47,74",
+                        "endOffsets": "1804,2139,2049,1742,1680,2467,1587,1995,2225,1866,1928,2416,1503,1423,2367,1341,2316,1272,2641,2536,1073,1148"
+                    },
+                    "to": {
+                        "startLines": "512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,530,532,533,534,535",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "31246,31308,31398,31452,31514,31570,31621,31705,31772,31858,31920,31982,32031,32111,32193,32244,32313,32404,32505,32568,32637,32685",
+                        "endLines": "512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,529,531,532,533,534,535",
+                        "endColumns": "61,89,53,61,55,50,83,66,85,61,61,48,79,81,50,68,42,42,62,68,47,74",
+                        "endOffsets": "31303,31393,31447,31509,31565,31616,31700,31767,31853,31915,31977,32026,32106,32188,32239,32308,32399,32500,32563,32632,32680,32755"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

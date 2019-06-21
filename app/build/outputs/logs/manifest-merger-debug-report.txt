@@ -1,0 +1,525 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:56:9-66:20
+	android:grantUriPermissions
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:58:13-47
+	android:authorities
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:60:13-64
+	android:exported
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:57:13-62
+manifest
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+MERGED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:2:1-28:12
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/74f45f4ba7b69d601c7ba8d458d720f6/AndroidManifest.xml:2:1-10:12
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/93d8e1f43dd86e5f6fe23a2dafd1bba6/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/ff062307f3b2a3b2fa339ae815eef0f0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/98b0af42cdcd89e08b2cde53821acad6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/15a22c74d663e4ddc8d2cd94f8a3ecf4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/954b032a2ce8b7bfe8b89b5000717c02/AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a67d75ad0700b5904040c65677d495c7/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/fcb74e92b45110408b58e6d950f809cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4bfabe058db71aa8868ae0d57de204e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/3f701587637b72d43c76dcbc9d9be781/AndroidManifest.xml:13:1-18:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/dc7e196f697d29d550833d487c94edc8/AndroidManifest.xml:6:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1c3d34840953d8eaeeaac1f1ab501193/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/5ba8700c46ed0661b74be059ee2fcef3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/082bb2674a76d3f33443e91ab067b952/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/32785f951f35eed3d07f1c5d3cb584af/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/43da496ede34f093fcccb652c0136dee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/2633ecc6d4afc2f08325246815d6a129/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/26a3900b8db939019dfef25f971a5f74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/2635f7e6d576e259caa0b26b38eb1413/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/7494e22efd93fc7586975d69cd5d2c40/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/cea1e945b5889d0096f0f6ee6fd6bdb2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/cc0a0ef8ca4a079425fa8d089027e71b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/56970ea881a856caae7d297d1ea6490a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4d3748fc28dcdb0d1915893bc0790688/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a06b82706012472531f17ef0795679ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d4d81ac77ddca587fdc9035f03360390/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/634c4191b2d025bc6ee11d06829e7bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/ea5e94baafb8ecd80038dd57bb47f72f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/970623e5b15b75c88ad2b8693b2dc1be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/163c9948cfe906e94d6d522833eb7373/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a8accb2ebd337e457e0ab64b5a45cf12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/df7dd6323f7caba57b49fe1824b8eece/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/bb634832dee37a36909b7fbb98183ae8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/199d964d392a4c3c04acf1a5189ae2b8/AndroidManifest.xml:2:1-8:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/8248adb0cd7a1708fb4ba394a369e500/AndroidManifest.xml:13:1-18:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/15e77a2dcf6c995f183b97fd23ee02dd/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1294524037541c569ee982974b3bd7b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/bdb9d8d75801d1115cf4a4aef1979422/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4e529c1a396e8f2fd15dc92b7f4ebc03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/8f2afdce4b39d73909f327c9ca9f8b95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d46870bee5e1af73c74bd5989c3fff6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a440ed05b375aa7198d7bc86cf11b972/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/601e4eb65f11bd4aa09a9a5c5bb89961/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4c21ff6a6857e253d35469dc0b618053/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1b08ba6ebfdd5058a30047dce8383b4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/28ca1822cd368da29e85dc32c58906d1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+	package
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:1-173:12
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.NFC
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:6:5-62
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:6:22-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:11:5-67
+MERGED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:12:22-77
+uses-feature#android.hardware.nfc
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:16:9-44
+application
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:21:5-171:19
+MERGED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:13:5-26:19
+MERGED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:13:5-26:19
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/74f45f4ba7b69d601c7ba8d458d720f6/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/74f45f4ba7b69d601c7ba8d458d720f6/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/93d8e1f43dd86e5f6fe23a2dafd1bba6/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/93d8e1f43dd86e5f6fe23a2dafd1bba6/AndroidManifest.xml:8:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/15a22c74d663e4ddc8d2cd94f8a3ecf4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/15a22c74d663e4ddc8d2cd94f8a3ecf4/AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/954b032a2ce8b7bfe8b89b5000717c02/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/954b032a2ce8b7bfe8b89b5000717c02/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a67d75ad0700b5904040c65677d495c7/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a67d75ad0700b5904040c65677d495c7/AndroidManifest.xml:13:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/5ba8700c46ed0661b74be059ee2fcef3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/5ba8700c46ed0661b74be059ee2fcef3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/082bb2674a76d3f33443e91ab067b952/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/082bb2674a76d3f33443e91ab067b952/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/32785f951f35eed3d07f1c5d3cb584af/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/32785f951f35eed3d07f1c5d3cb584af/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/bb634832dee37a36909b7fbb98183ae8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/bb634832dee37a36909b7fbb98183ae8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/601e4eb65f11bd4aa09a9a5c5bb89961/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/601e4eb65f11bd4aa09a9a5c5bb89961/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:25:9-41
+	tools:ignore
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:27:9-48
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:23:9-36
+	android:theme
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:22:9-59
+activity#com.power.nfc.assistant.activitys.MainMenu
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:29:9-39:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:32:13-56
+	android:launchMode
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:33:13-43
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:31:13-59
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:30:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:37:27-74
+activity-alias#com.power.nfc.assistant.MainMenuAlias
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:41:9-53:26
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:44:13-56
+	android:launchMode
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:45:13-43
+	android:targetActivity
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:42:13-80
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:43:13-42
+intent-filter#action:name:android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:47:13-49:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:48:25-74
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:50:13-52:59
+	android:resource
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:52:17-56
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:51:17-66
+activity#com.power.nfc.assistant.activitys.KeyMapCreator
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:69:9-74:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:73:13-66
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:71:13-74
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:72:13-56
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:70:13-75
+activity#com.power.nfc.assistant.activitys.DumpEditor
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:75:9-80:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:79:13-63
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:77:13-74
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:78:13-47
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:76:13-72
+activity#com.power.nfc.assistant.activitys.FileChooser
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:81:9-85:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:84:13-64
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:83:13-42
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:82:13-73
+activity#com.power.nfc.assistant.activitys.AccessConditionDecoder
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:86:9-91:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:90:13-69
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:88:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:89:13-55
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:87:13-84
+activity#com.power.nfc.assistant.activitys.ValueBlocksToInt
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:92:9-97:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:96:13-64
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:94:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:95:13-56
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:93:13-78
+activity#com.power.nfc.assistant.activitys.WriteTag
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:98:9-103:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:102:13-61
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:100:13-74
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:101:13-47
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:99:13-70
+activity#com.power.nfc.assistant.activitys.ReadTag
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:104:9-109:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:108:13-60
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:106:13-74
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:107:13-46
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:105:13-69
+activity#com.power.nfc.assistant.activitys.KeyEditor
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:110:9-115:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:114:13-62
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:112:13-74
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:113:13-47
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:111:13-71
+activity#com.power.nfc.assistant.activitys.HelpAndInfo
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:116:9-121:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:120:13-56
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:118:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:119:13-51
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:117:13-73
+activity#com.power.nfc.assistant.activitys.HexToAscii
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:122:9-127:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:126:13-64
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:124:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:125:13-50
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:123:13-72
+activity#com.power.nfc.assistant.activitys.TagInfoTool
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:128:9-133:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:132:13-60
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:130:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:131:13-46
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:129:13-73
+activity#com.power.nfc.assistant.activitys.ValueBlockTool
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:134:9-139:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:138:13-68
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:136:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:137:13-54
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:135:13-76
+activity#com.power.nfc.assistant.activitys.AccessConditionTool
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:140:9-145:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:144:13-73
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:142:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:143:13-59
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:141:13-81
+activity#com.power.nfc.assistant.activitys.Preferences
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:146:9-151:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:150:13-63
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:148:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:149:13-49
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:147:13-73
+activity#com.power.nfc.assistant.activitys.DiffTool
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:152:9-157:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:156:13-61
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:154:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:155:13-47
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:153:13-70
+activity#com.power.nfc.assistant.activitys.BccTool
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:158:9-163:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:162:13-60
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:160:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:161:13-46
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:159:13-69
+activity#com.power.nfc.assistant.activitys.CloneUidTool
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:164:9-169:20
+	android:label
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:168:13-61
+	android:configChanges
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:166:13-59
+	android:icon
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:167:13-47
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:165:13-74
+uses-sdk
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+MERGED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:7:5-9:41
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/74f45f4ba7b69d601c7ba8d458d720f6/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/74f45f4ba7b69d601c7ba8d458d720f6/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/93d8e1f43dd86e5f6fe23a2dafd1bba6/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/93d8e1f43dd86e5f6fe23a2dafd1bba6/AndroidManifest.xml:6:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/ff062307f3b2a3b2fa339ae815eef0f0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/ff062307f3b2a3b2fa339ae815eef0f0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/98b0af42cdcd89e08b2cde53821acad6/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/98b0af42cdcd89e08b2cde53821acad6/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/15a22c74d663e4ddc8d2cd94f8a3ecf4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/15a22c74d663e4ddc8d2cd94f8a3ecf4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/954b032a2ce8b7bfe8b89b5000717c02/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/954b032a2ce8b7bfe8b89b5000717c02/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a67d75ad0700b5904040c65677d495c7/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a67d75ad0700b5904040c65677d495c7/AndroidManifest.xml:8:5-11:75
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/fcb74e92b45110408b58e6d950f809cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/fcb74e92b45110408b58e6d950f809cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4bfabe058db71aa8868ae0d57de204e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4bfabe058db71aa8868ae0d57de204e3/AndroidManifest.xml:20:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/3f701587637b72d43c76dcbc9d9be781/AndroidManifest.xml:16:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/3f701587637b72d43c76dcbc9d9be781/AndroidManifest.xml:16:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/dc7e196f697d29d550833d487c94edc8/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/dc7e196f697d29d550833d487c94edc8/AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1c3d34840953d8eaeeaac1f1ab501193/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1c3d34840953d8eaeeaac1f1ab501193/AndroidManifest.xml:20:5-44
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/5ba8700c46ed0661b74be059ee2fcef3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/5ba8700c46ed0661b74be059ee2fcef3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/082bb2674a76d3f33443e91ab067b952/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/082bb2674a76d3f33443e91ab067b952/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/32785f951f35eed3d07f1c5d3cb584af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/32785f951f35eed3d07f1c5d3cb584af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/43da496ede34f093fcccb652c0136dee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/43da496ede34f093fcccb652c0136dee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/2633ecc6d4afc2f08325246815d6a129/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/2633ecc6d4afc2f08325246815d6a129/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/26a3900b8db939019dfef25f971a5f74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/26a3900b8db939019dfef25f971a5f74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/2635f7e6d576e259caa0b26b38eb1413/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/2635f7e6d576e259caa0b26b38eb1413/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/7494e22efd93fc7586975d69cd5d2c40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/7494e22efd93fc7586975d69cd5d2c40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/cea1e945b5889d0096f0f6ee6fd6bdb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/cea1e945b5889d0096f0f6ee6fd6bdb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/cc0a0ef8ca4a079425fa8d089027e71b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/cc0a0ef8ca4a079425fa8d089027e71b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/56970ea881a856caae7d297d1ea6490a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/56970ea881a856caae7d297d1ea6490a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4d3748fc28dcdb0d1915893bc0790688/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4d3748fc28dcdb0d1915893bc0790688/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a06b82706012472531f17ef0795679ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a06b82706012472531f17ef0795679ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d4d81ac77ddca587fdc9035f03360390/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d4d81ac77ddca587fdc9035f03360390/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/634c4191b2d025bc6ee11d06829e7bc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/634c4191b2d025bc6ee11d06829e7bc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/ea5e94baafb8ecd80038dd57bb47f72f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/ea5e94baafb8ecd80038dd57bb47f72f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/970623e5b15b75c88ad2b8693b2dc1be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/970623e5b15b75c88ad2b8693b2dc1be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/163c9948cfe906e94d6d522833eb7373/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/163c9948cfe906e94d6d522833eb7373/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d0acb500e31812634ccdc250c9c7ab21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a8accb2ebd337e457e0ab64b5a45cf12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a8accb2ebd337e457e0ab64b5a45cf12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/df7dd6323f7caba57b49fe1824b8eece/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/df7dd6323f7caba57b49fe1824b8eece/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/bb634832dee37a36909b7fbb98183ae8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/bb634832dee37a36909b7fbb98183ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/199d964d392a4c3c04acf1a5189ae2b8/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/199d964d392a4c3c04acf1a5189ae2b8/AndroidManifest.xml:6:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/8248adb0cd7a1708fb4ba394a369e500/AndroidManifest.xml:16:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/8248adb0cd7a1708fb4ba394a369e500/AndroidManifest.xml:16:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/15e77a2dcf6c995f183b97fd23ee02dd/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/15e77a2dcf6c995f183b97fd23ee02dd/AndroidManifest.xml:18:5-43
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1294524037541c569ee982974b3bd7b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1294524037541c569ee982974b3bd7b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/bdb9d8d75801d1115cf4a4aef1979422/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/bdb9d8d75801d1115cf4a4aef1979422/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4e529c1a396e8f2fd15dc92b7f4ebc03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4e529c1a396e8f2fd15dc92b7f4ebc03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/8f2afdce4b39d73909f327c9ca9f8b95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/8f2afdce4b39d73909f327c9ca9f8b95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d46870bee5e1af73c74bd5989c3fff6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d46870bee5e1af73c74bd5989c3fff6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a440ed05b375aa7198d7bc86cf11b972/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a440ed05b375aa7198d7bc86cf11b972/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/601e4eb65f11bd4aa09a9a5c5bb89961/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/601e4eb65f11bd4aa09a9a5c5bb89961/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4c21ff6a6857e253d35469dc0b618053/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4c21ff6a6857e253d35469dc0b618053/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1b08ba6ebfdd5058a30047dce8383b4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1b08ba6ebfdd5058a30047dce8383b4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/28ca1822cd368da29e85dc32c58906d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/28ca1822cd368da29e85dc32c58906d1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.4.5] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/a67d75ad0700b5904040c65677d495c7/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:62:13-64:62
+	android:resource
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:64:17-60
+	android:name
+		ADDED from /Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/src/main/AndroidManifest.xml:63:17-67
+activity#me.goldze.mvvmhabit.base.ContainerActivity
+ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:14:9-16:66
+	android:configChanges
+		ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:15:13-70
+activity#me.goldze.mvvmhabit.crash.DefaultErrorActivity
+ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:17:9-19:49
+	android:process
+		ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:19:13-46
+	android:name
+		ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:18:13-74
+provider#me.goldze.mvvmhabit.crash.CaocInitProvider
+ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:21:9-25:39
+	android:authorities
+		ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:23:13-85
+	android:exported
+		ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:24:13-37
+	android:initOrder
+		ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [com.github.goldze:MVVMHabit:3.1.2] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/f5bb111af3f4f60b9ac849ef6336a84b/AndroidManifest.xml:22:13-70
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/guotianhui/.gradle/caches/transforms-2/files-2.1/4f28bd7226dc78027a9dc440f0bd7220/AndroidManifest.xml:24:13-79
