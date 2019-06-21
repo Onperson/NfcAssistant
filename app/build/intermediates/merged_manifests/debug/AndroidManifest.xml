@@ -22,7 +22,7 @@
         android:required="true" />
 
     <application
-        android:name="com.power.nfc.assistant.comm.Common"
+        android:name="com.power.nfc.assistant.abs.NfcAssistantApplication"
         android:allowBackup="false"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -172,6 +172,7 @@
             android:icon="@drawable/clone_uid"
             android:label="@string/title_activity_clone_uid" >
         </activity>
+        <activity android:name="com.power.nfc.assistant.activitys.LoginActivity" />
         <activity
             android:name="me.goldze.mvvmhabit.base.ContainerActivity"
             android:configChanges="orientation|keyboardHidden" />
