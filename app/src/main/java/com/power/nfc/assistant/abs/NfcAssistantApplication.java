@@ -58,7 +58,6 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import com.power.nfc.assistant.activitys.LoginActivity;
 import com.power.nfc.assistant.utils.MCReader;
 import com.power.nfc.assistant.R;
 import com.power.nfc.assistant.activitys.IActivityThatReactsToSave;
@@ -228,7 +227,7 @@ public class NfcAssistantApplication extends Application {
                 .trackActivities(true) //是否跟踪Activity
                 .minTimeBetweenCrashesMs(2000) //崩溃的间隔时间(毫秒)
                 .errorDrawable(R.drawable.customactivityoncrash_error_image) //错误图标
-                .restartActivity(LoginActivity.class) //重新启动后的activity
+               // .restartActivity(LoginActivity.class) //重新启动后的activity
         //.errorActivity(YourCustomErrorActivity.class) //崩溃后的错误activity
         //.eventListener(new YourCustomEventListener()) //崩溃后的错误监听
                 .apply();
@@ -373,8 +372,6 @@ public class NfcAssistantApplication extends Application {
      * onSaveSuccessful() and onSaveFailure() methods. These methods will
      * be called according to the save process. Also, onSaveFailure() will
      * be called if the user hints cancel.
-     * @see #saveFile(File, String[], boolean)
-     * @see #saveFileAppend(File, String[], boolean)
      */
     public static void checkFileExistenceAndSave(final File file,
             final String[] lines, final boolean isDump, final Context context,
@@ -1268,8 +1265,6 @@ public class NfcAssistantApplication extends Application {
 
     /**
      * Show a Toast message with error information according to
-     * {@link #isValidDump(String[], boolean)}.
-     * @see #isValidDump(String[], boolean)
      */
     public static void isValidDumpErrorToast(int errorCode,
             Context context) {
@@ -1638,7 +1633,6 @@ public class NfcAssistantApplication extends Application {
      * BCC is the first byte after the UID in the manufacturers block.
      * It is calculated by XOR-ing the 4 bytes of the UID.
      * @param uid The UID of which the BCC should be calculated.
-     * @exception IllegalArgumentException Thrown if the uid parameter
      * has not 4 bytes.
      * @return The BCC of the given UID.
      */

@@ -1,23 +1,23 @@
 #Internal package file, do not edit.
-#Fri Jun 21 14:41:54 CST 2019
-2.base=/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/merged_assets/debug/out
+#Fri Jun 21 18:08:40 CST 2019
+2.base=/Users/guotianhui/Downloads/NfcAssistant/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 2.baseType=DIRECTORY
-3.base=/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/merged_assets/debug/out
-2.set=ASSET
-1.path=classes.dex
-4.base=/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/merged_assets/debug/out
+3.base=/Users/guotianhui/Downloads/NfcAssistant/app/build/intermediates/merged_assets/debug/out
+2.set=DEX
+1.path=key-files/std.keys
+4.base=/Users/guotianhui/Downloads/NfcAssistant/app/build/intermediates/merged_assets/debug/out
 count=5
-2.path=help/help.html
+2.path=classes.dex
 4.set=ASSET
 3.path=key-files/extended-std.keys
 3.baseType=DIRECTORY
-1.set=DEX
-4.path=key-files/std.keys
+1.set=ASSET
+4.path=help/help.html
 1.baseType=DIRECTORY
-0.base=/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/transforms/dexMerger/debug/1
+0.base=/Users/guotianhui/Downloads/NfcAssistant/app/build/intermediates/transforms/dexMerger/debug/1
 0.baseType=DIRECTORY
 3.set=ASSET
-1.base=/Users/guotianhui/Android/my_github_application/NfcAssistant-master/app/build/intermediates/transforms/dexMerger/debug/0
+1.base=/Users/guotianhui/Downloads/NfcAssistant/app/build/intermediates/merged_assets/debug/out
 4.baseType=DIRECTORY
 0.set=DEX

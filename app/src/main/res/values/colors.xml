@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="blue">@android:color/holo_blue_light</color>
+    <color name="light_green">#66FF66</color>
+    <color name="dark_green">#338800</color>
+    <color name="orange">#FF6600</color>
+    <color name="light_gray">#DDDDDD</color>
+    <color name="middle_gray">#444444</color>
+    <color name="dark_gray">#222222</color>
 
     <color name="color_75b483">#75B483</color>
     <color name="color_1b">#1B1B1B</color>
@@ -96,7 +103,6 @@
     <color name="blue_4ea8dd">#ff4ea8dd</color>
 
     <!--黄-->
-    <color name="yellow">#f46b1a</color>
     <color name="yellow_e59a70">#E59A70</color>
     <color name="yellow_f2b88b">#F2B88B</color>
     <color name="yellow_826251">#826251</color>
