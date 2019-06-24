@@ -5,19 +5,24 @@ buildscript {
 
 
     repositories {
-        jcenter()
         google()
+        jcenter()
+        mavenCentral()
         maven { url 'https://jitpack.io' }
+        jcenter() { url 'http://jcenter.bintray.com/' }
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.4.1'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
 }
 
 allprojects {
     repositories {
-        jcenter()
         google()
+        jcenter()
+        mavenCentral()
         maven { url 'https://jitpack.io' }
+        jcenter() { url 'http://jcenter.bintray.com/' }
     }
 }

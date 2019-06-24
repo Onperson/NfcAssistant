@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1c881d8696ad773fe6ce8a386d029d3/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bcef78626954be61b967f4a51547836/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1c881d8696ad773fe6ce8a386d029d3/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1c881d8696ad773fe6ce8a386d029d3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bcef78626954be61b967f4a51547836/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bcef78626954be61b967f4a51547836/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

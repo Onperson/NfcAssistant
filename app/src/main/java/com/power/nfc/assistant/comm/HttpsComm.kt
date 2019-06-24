@@ -10,6 +10,7 @@ object HttpsComm {
     const val  API_BASE_URL = "https://user.api.it120.cc"+ API_PRIVATE_DOMAIN
 
 
+    const val  LOGIN_IN = "/login/userName"
 
 
 }

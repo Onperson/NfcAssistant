@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/guotianhui/Downloads/NfcAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/9fde21ae47fb44f7f5c7f6d975d4b802/res/values-v28/values-v28.xml",
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d012d4390ccccd949dc36e3689f3a190/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

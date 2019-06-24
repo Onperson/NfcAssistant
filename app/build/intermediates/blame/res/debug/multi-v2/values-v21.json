@@ -1,10 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/guotianhui/Downloads/NfcAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/9fde21ae47fb44f7f5c7f6d975d4b802/res/values-v21/values-v21.xml",
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/1b911020c205b61dd8fa5d9ea5254765/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "289,292,296,300",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "21046,21214,21503,21799",
+                        "endLines": "291,294,298,302",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "21209,21372,21666,21961"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d012d4390ccccd949dc36e3689f3a190/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,43 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/c63a1c989d20babcc322449f60142324/res/values-v21/values-v21.xml",
-                    "from": {
-                        "startLines": "2,13",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,780",
-                        "endLines": "12,23",
-                        "endColumns": "10,10",
-                        "endOffsets": "775,1492"
-                    },
-                    "to": {
-                        "startLines": "227,238",
-                        "startColumns": "4,4",
-                        "startOffsets": "17013,17738",
-                        "endLines": "237,248",
-                        "endColumns": "10,10",
-                        "endOffsets": "17733,18450"
-                    }
-                },
-                {
-                    "source": "/Users/guotianhui/Downloads/NfcAssistant/app/src/main/res/values-v21/colors.xml",
-                    "from": {
-                        "startLines": "22",
-                        "startColumns": "4",
-                        "startOffsets": "761",
-                        "endColumns": "38",
-                        "endOffsets": "795"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "38",
-                        "endOffsets": "89"
-                    }
-                },
-                {
-                    "source": "/Users/guotianhui/Downloads/NfcAssistant/app/src/main/res/values-v21/styles.xml",
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "22",
                         "startColumns": "4",
@@ -76,7 +59,24 @@
                     }
                 },
                 {
-                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/16e01f92c7bd8f7dd832aefaabb4b80b/res/values-v21/values-v21.xml",
+                    "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/values-v21/colors.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "761",
+                        "endColumns": "38",
+                        "endOffsets": "795"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                },
+                {
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/27cc36bf13292b8427cd68da84e50822/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -95,22 +95,22 @@
                     }
                 },
                 {
-                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/c9443626573eef9b8aca66468f5fbadf/res/values-v21/values-v21.xml",
+                    "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/793344a842e783921520a2ef37332838/res/values-v21/values-v21.xml",
                     "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,386,554",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "218,381,549,716"
+                        "startLines": "2,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,780",
+                        "endLines": "12,23",
+                        "endColumns": "10,10",
+                        "endOffsets": "775,1492"
                     },
                     "to": {
-                        "startLines": "289,292,296,300",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "21046,21214,21503,21799",
-                        "endLines": "291,294,298,302",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "21209,21372,21666,21961"
+                        "startLines": "227,238",
+                        "startColumns": "4,4",
+                        "startOffsets": "17013,17738",
+                        "endLines": "237,248",
+                        "endColumns": "10,10",
+                        "endOffsets": "17733,18450"
                     }
                 }
             ]

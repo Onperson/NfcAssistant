@@ -1565,6 +1565,7 @@ drawable access_conditions
 drawable arrow_down
 drawable arrow_up
 drawable bcc_tool
+drawable bg_login_four_concer_white
 drawable clone_uid
 drawable copy
 drawable customactivityoncrash_error_image
@@ -1650,6 +1651,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_login_nfc
 id buttonAccessConditionToolBlock0
 id buttonAccessConditionToolBlock1
 id buttonAccessConditionToolBlock2
@@ -1743,6 +1745,9 @@ id editTextWriteTagValueBlockValue
 id edit_query
 id end
 id end_padder
+id et_nfc_account
+id et_nfc_password
+id et_picture_ems
 id expand_activities_button
 id expanded_menu
 id fill
@@ -1781,6 +1786,7 @@ id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id iv_ems_picture
 id layoutWriteTagDumpStaticAC
 id layoutWriteTagDumpWriteManuf
 id left
@@ -2129,6 +2135,7 @@ layout activity_help
 layout activity_hex_to_ascii
 layout activity_key_editor
 layout activity_login
+layout activity_login_in
 layout activity_main_menu
 layout activity_preferences
 layout activity_read_tag

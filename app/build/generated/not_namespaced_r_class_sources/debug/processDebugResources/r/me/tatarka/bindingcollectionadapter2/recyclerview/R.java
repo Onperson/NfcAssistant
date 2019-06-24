@@ -27,11 +27,11 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int dataBinding = 0x7f080063;
-        public static final int item_touch_helper_previous_elevation = 0x7f0800a5;
-        public static final int onAttachStateChangeListener = 0x7f08010d;
-        public static final int onDateChanged = 0x7f08010e;
-        public static final int textWatcher = 0x7f0801c5;
+        public static final int dataBinding = 0x7f080064;
+        public static final int item_touch_helper_previous_elevation = 0x7f0800a9;
+        public static final int onAttachStateChangeListener = 0x7f080112;
+        public static final int onDateChanged = 0x7f080113;
+        public static final int textWatcher = 0x7f0801ca;
     }
     public static final class styleable {
         private styleable() {}

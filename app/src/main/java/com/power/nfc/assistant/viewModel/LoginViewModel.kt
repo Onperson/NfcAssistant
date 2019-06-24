@@ -5,10 +5,14 @@ import com.power.nfc.assistant.model.LoginModel
 import me.goldze.mvvmhabit.base.BaseViewModel
 
 
-class LoginViewModel(application: Application, model: LoginModel?) : BaseViewModel<LoginModel>(application, model) {
+class LoginViewModel: BaseViewModel<LoginModel?> {
 
 
-    override fun onCreate() {
-        super.onCreate()
+    constructor(application: Application) : super(application) {
+
+    }
+
+    constructor(application: Application, model: LoginModel) : super(application, model) {
+        // mHomePresenter = LoginRegisterPresenter(this)
     }
 }
