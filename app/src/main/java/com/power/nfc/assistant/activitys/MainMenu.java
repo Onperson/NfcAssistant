@@ -58,6 +58,9 @@ import java.io.OutputStream;
 
 import com.power.nfc.assistant.abs.NfcAssistantApplication;
 import com.power.nfc.assistant.R;
+import com.power.nfc.assistant.comm.CommConstant;
+import com.power.nfc.assistant.utils.SharePreferfenceUtils;
+import me.goldze.mvvmhabit.utils.SPUtils;
 
 import static com.power.nfc.assistant.activitys.Preferences.Preference.UseInternalStorage;
 
@@ -130,6 +133,15 @@ public class MainMenu extends Activity {
             ActivityCompat.requestPermissions(this,
                     new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
                     REQUEST_WRITE_STORAGE_CODE);
+        }
+
+        //判断用户是否登录
+        SharePreferfenceUtils spUtilsInstance = SharePreferfenceUtils.Companion.getSpUtilsInstance(getBaseContext());
+        String userToken = spUtilsInstance.getStringValue(CommConstant.USER_TOKEN, "");
+        Log.e(">>>>>>>>>>>>>>","用户的Token:"+userToken);
+        if("".equals(userToken)){
+            Intent intent = new Intent(MainMenu.this,LoginActivity.class);
+            startActivity(intent);
         }
     }
 
@@ -265,8 +277,9 @@ public class MainMenu extends Activity {
                 NfcAssistantApplication.setPendingComponentName(null);
                 Intent intent = getIntent();
                 if (intent != null) {
-                    boolean isIntentWithTag = intent.getAction().equals(
-                            NfcAdapter.ACTION_TECH_DISCOVERED);
+                    boolean isIntentWithTag = NfcAdapter.ACTION_TECH_DISCOVERED.equals(
+                            intent.getAction());
+                    Log.e(">>>>>>>>>>>>","intent.getAction():"+intent.getAction());
                     if (isIntentWithTag && intent != mOldIntent) {
                         // If MCT was called by another app or the dispatch
                         // system with a tag delivered by intent, handle it as

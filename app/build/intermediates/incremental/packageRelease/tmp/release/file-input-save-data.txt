@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Mon Jun 24 17:28:20 CST 2019
+1.base=/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/merged_assets/release/out
+2.path=help/help.html
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/merged_assets/release/out
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=ASSET
+0.path=key-files/extended-std.keys
+3.base=/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/transforms/dexMerger/release/0
+0.set=ASSET
+0.base=/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/merged_assets/release/out
+2.baseType=DIRECTORY
+1.path=key-files/std.keys

@@ -14,11 +14,13 @@ import com.bumptech.glide.Glide
 import com.lzy.okgo.OkGo
 import com.lzy.okgo.model.Response
 import com.power.nfc.assistant.R
+import com.power.nfc.assistant.comm.CommConstant
 import com.power.nfc.assistant.comm.HttpsComm
 import com.power.nfc.assistant.model.LoginModel
 import com.power.nfc.assistant.model.ResponseData
 import com.power.nfc.assistant.utils.FormatUtils
 import com.power.nfc.assistant.utils.JsonCallback
+import com.power.nfc.assistant.utils.SharePreferfenceUtils
 import me.goldze.mvvmhabit.utils.ToastUtils
 
 class LoginActivity : AppCompatActivity() {
@@ -36,12 +38,12 @@ class LoginActivity : AppCompatActivity() {
         val mEtNfcEms = findViewById<EditText>(R.id.et_picture_ems)
 
         val mIvEmsPicture = findViewById<AppCompatImageView>(R.id.iv_ems_picture)
-        Glide.with(mIvEmsPicture).load("https://user.api.it120.cc/code?k=$mEmsNum").into(mIvEmsPicture)
+        Glide.with(mIvEmsPicture).load(HttpsComm.EMS_PICTURE_URL+"$mEmsNum").into(mIvEmsPicture)
         mIvEmsPicture.setOnClickListener {
-            Glide.with(mIvEmsPicture).load("https://user.api.it120.cc/code?k=$mEmsNum").into(mIvEmsPicture)
+            Glide.with(mIvEmsPicture).load(HttpsComm.EMS_PICTURE_URL+"$mEmsNum").into(mIvEmsPicture)
         }
         mBtnLoginIn.setOnClickListener {
-            Log.e(">>>>>>>>>>>>>", "接口请求:"+"https://user.api.it120.cc/code?k=$mEmsNum\"")
+            Log.e(">>>>>>>>>>>>>", "接口请求:"+"HttpsComm.EMS_PICTURE_URL+\"$mEmsNum\"")
             val loginModel = LoginModel()
             if(mEtNfcAccount.text.toString().trim() != "") {
                 loginModel.userName = mEtNfcAccount.text.toString().trim()
@@ -58,15 +60,17 @@ class LoginActivity : AppCompatActivity() {
                 return@setOnClickListener
             }
             loginModel.k = mEmsNum.toString()
-            val API_BASE_DOMAIN = "https://user.api.it120.cc/login/userName"
+           // val API_BASE_DOMAIN = "https://user.api.it120.cc/login/userName"
 
             Log.e(">>>>>>>>>>>>>", "接口请求:$loginModel")
-            OkGo.post<ResponseData<String>>(API_BASE_DOMAIN+loginModel.toString())
+            OkGo.post<ResponseData<String>>(HttpsComm.LOGIN_IN+loginModel.toString())
                     .execute(object : JsonCallback<ResponseData<String>>(){
                         override fun onSuccess(response: Response<ResponseData<String>>?) {
                             val e = Log.e(">>>>>>>>>>>>>", "接口请求成功:response:" + response?.body()?.data)
                             val mainIntent = Intent(baseContext,MainMenu::class.java)
                             startActivity(mainIntent)
+                            val spUtilsInstance = SharePreferfenceUtils.getSpUtilsInstance(baseContext)
+                            spUtilsInstance?.saveStringValue(CommConstant.USER_TOKEN, response?.body()?.data)
                         }
 
                         override fun onError(response: Response<ResponseData<String>>?) {

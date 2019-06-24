@@ -58,6 +58,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import com.power.nfc.assistant.activitys.LoginActivity;
 import com.power.nfc.assistant.utils.MCReader;
 import com.power.nfc.assistant.R;
 import com.power.nfc.assistant.activitys.IActivityThatReactsToSave;
@@ -218,7 +219,7 @@ public class NfcAssistantApplication extends Application {
 
         //是否开启日志打印
         KLog.init(true);
-        //配置全局异常崩溃操作
+       //配置全局异常崩溃操作
         CaocConfig.Builder.create()
                 .backgroundMode(CaocConfig.BACKGROUND_MODE_SILENT) //背景模式,开启沉浸式
                 .enabled(true) //是否启动全局异常捕获
@@ -226,10 +227,10 @@ public class NfcAssistantApplication extends Application {
                 .showRestartButton(true) //是否显示重启按钮
                 .trackActivities(true) //是否跟踪Activity
                 .minTimeBetweenCrashesMs(2000) //崩溃的间隔时间(毫秒)
-                .errorDrawable(R.drawable.customactivityoncrash_error_image) //错误图标
-               // .restartActivity(LoginActivity.class) //重新启动后的activity
-        //.errorActivity(YourCustomErrorActivity.class) //崩溃后的错误activity
-        //.eventListener(new YourCustomEventListener()) //崩溃后的错误监听
+                .errorDrawable(R.mipmap.ic_launcher) //错误图标
+                .restartActivity(LoginActivity.class) //重新启动后的activity
+                //.errorActivity(YourCustomErrorActivity.class) //崩溃后的错误activity
+                //.eventListener(new YourCustomEventListener()) //崩溃后的错误监听
                 .apply();
 
         try {
