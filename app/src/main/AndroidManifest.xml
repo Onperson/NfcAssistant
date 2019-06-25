@@ -50,6 +50,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activitys.MainActivity"
+                  android:theme="@style/Theme.AppCompat"/>
+
+        <activity android:name=".activitys.RegisterActivity"
+                  android:theme="@style/Theme.AppCompat"/>
+
 
         <activity android:name=".activitys.MainMenu"/>
         <activity-alias

@@ -44,12 +44,20 @@
         "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d012d4390ccccd949dc36e3689f3a190/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/layout_dialog_swap_card.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/layout/dialog_swap_card.xml"
+    },
+    {
         "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/drawable_hex_to_ascii.png.flat",
         "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/drawable/hex_to_ascii.png"
     },
     {
         "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d012d4390ccccd949dc36e3689f3a190/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/layout/activity_register.xml"
     },
     {
         "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
@@ -326,10 +334,6 @@
     {
         "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d012d4390ccccd949dc36e3689f3a190/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
-        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/layout/activity_login.xml"
     },
     {
         "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
@@ -960,6 +964,10 @@
         "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/drawable/ic_launcher_foreground.xml"
     },
     {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/drawable-xhdpi_bg_main_swap_card.jpeg.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/drawable-xhdpi/bg_main_swap_card.jpeg"
+    },
+    {
         "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/d012d4390ccccd949dc36e3689f3a190/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1326,6 +1334,10 @@
     {
         "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_md_nav_back.png.flat",
         "source": "/Users/guotianhui/.gradle/caches/transforms-2/files-2.1/793344a842e783921520a2ef37332838/res/drawable-xxhdpi-v4/md_nav_back.png"
+    },
+    {
+        "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/guotianhui/Android/my_github_application/NfcAssistant/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",

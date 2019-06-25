@@ -38,36 +38,41 @@ class LoginActivity : AppCompatActivity() {
         val mEtNfcEms = findViewById<EditText>(R.id.et_picture_ems)
 
         val mIvEmsPicture = findViewById<AppCompatImageView>(R.id.iv_ems_picture)
-        Glide.with(mIvEmsPicture).load(HttpsComm.EMS_PICTURE_URL+"$mEmsNum").into(mIvEmsPicture)
+        Glide.with(mIvEmsPicture).load(HttpsComm.EMS_PICTURE_URL + "$mEmsNum").into(mIvEmsPicture)
         mIvEmsPicture.setOnClickListener {
-            Glide.with(mIvEmsPicture).load(HttpsComm.EMS_PICTURE_URL+"$mEmsNum").into(mIvEmsPicture)
+            mEmsNum = System.currentTimeMillis()
+            Glide.with(mIvEmsPicture).load(HttpsComm.EMS_PICTURE_URL + "$mEmsNum").into(mIvEmsPicture)
         }
         mBtnLoginIn.setOnClickListener {
-            Log.e(">>>>>>>>>>>>>", "接口请求:"+"HttpsComm.EMS_PICTURE_URL+\"$mEmsNum\"")
+            Log.e(">>>>>>>>>>>>>", "接口请求:" + "HttpsComm.EMS_PICTURE_URL+\"$mEmsNum\"")
             val loginModel = LoginModel()
-            if(mEtNfcAccount.text.toString().trim() != "") {
+            if (mEtNfcAccount.text.toString().trim() != "") {
                 loginModel.userName = mEtNfcAccount.text.toString().trim()
-            }else{
+            } else {
+                Toast.makeText(baseContext, "请输入正确的账户", Toast.LENGTH_LONG).show()
+                //return@setOnClickListener
             }
-            if(mEtNfcPassword.text.toString().trim().trim() != "") {
+            if (mEtNfcPassword.text.toString().trim().trim() != "") {
                 loginModel.pwd = mEtNfcPassword.text.toString().trim()
-            }else{
+            } else {
+                Toast.makeText(baseContext, "请输入正确的密码", Toast.LENGTH_LONG).show()
+                // return@setOnClickListener
             }
-            if(mEtNfcEms.text.toString().trim().trim() != "") {
+            if (mEtNfcEms.text.toString().trim().trim() != "") {
                 loginModel.imgcode = mEtNfcEms.text.toString().trim()
-            }else{
-                Toast.makeText(baseContext,"请输入正确的验证码",Toast.LENGTH_LONG).show()
+            } else {
+                Toast.makeText(baseContext, "请输入正确的验证码", Toast.LENGTH_LONG).show()
                 return@setOnClickListener
             }
             loginModel.k = mEmsNum.toString()
-           // val API_BASE_DOMAIN = "https://user.api.it120.cc/login/userName"
+            // val API_BASE_DOMAIN = "https://user.api.it120.cc/login/userName"
 
             Log.e(">>>>>>>>>>>>>", "接口请求:$loginModel")
-            OkGo.post<ResponseData<String>>(HttpsComm.LOGIN_IN+loginModel.toString())
-                    .execute(object : JsonCallback<ResponseData<String>>(){
+            OkGo.post<ResponseData<String>>(HttpsComm.LOGIN_IN + loginModel.toString())
+                    .execute(object : JsonCallback<ResponseData<String>>() {
                         override fun onSuccess(response: Response<ResponseData<String>>?) {
                             val e = Log.e(">>>>>>>>>>>>>", "接口请求成功:response:" + response?.body()?.data)
-                            val mainIntent = Intent(baseContext,MainMenu::class.java)
+                            val mainIntent = Intent(baseContext, MainActivity::class.java)
                             startActivity(mainIntent)
                             val spUtilsInstance = SharePreferfenceUtils.getSpUtilsInstance(baseContext)
                             spUtilsInstance?.saveStringValue(CommConstant.USER_TOKEN, response?.body()?.data)
@@ -75,7 +80,11 @@ class LoginActivity : AppCompatActivity() {
 
                         override fun onError(response: Response<ResponseData<String>>?) {
                             super.onError(response)
-                            Log.e(">>>>>>>>>>>>>", "接口请求失败:"+response.toString())
+                            if ("" != response?.message()) {
+                                Toast.makeText(baseContext, response?.message(), Toast.LENGTH_LONG).show()
+                            }
+
+                            Log.e(">>>>>>>>>>>>>", "接口请求失败:" + response.toString())
                         }
                     })
         }

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+android:background="@color/white">
+
+    <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+    android:textColor="@color/black"
+    android:textSize="@dimen/dp_25"
+    android:text="是否开始绑卡?"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:layout_marginTop="@dimen/dp_25"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_50"
+            android:orientation="horizontal">
+        <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_cancel"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                 android:text="我再想想"
+                android:gravity="center"
+        android:textSize="@dimen/dp_25"
+        android:textColor="@color/black"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_register"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="立即注册"
+                android:gravity="center"
+                android:textSize="@dimen/dp_25"
+                android:textColor="@color/black"/>
+    </LinearLayout>
+
+</LinearLayout>

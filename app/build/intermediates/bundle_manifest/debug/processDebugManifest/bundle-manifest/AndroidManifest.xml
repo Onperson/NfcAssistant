@@ -59,6 +59,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.power.nfc.assistant.activitys.MainActivity"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name="com.power.nfc.assistant.activitys.RegisterActivity"
+            android:theme="@style/Theme.AppCompat" />
         <activity android:name="com.power.nfc.assistant.activitys.MainMenu" />
 
         <activity-alias
