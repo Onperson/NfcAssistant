@@ -58,12 +58,19 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import com.lzy.okgo.OkGo;
 import com.power.nfc.assistant.activitys.LoginActivity;
+import com.power.nfc.assistant.activitys.MainActivity;
+import com.power.nfc.assistant.comm.CommConstant;
+import com.power.nfc.assistant.comm.HttpsComm;
+import com.power.nfc.assistant.model.ResponseData;
+import com.power.nfc.assistant.utils.JsonCallback;
 import com.power.nfc.assistant.utils.MCReader;
 import com.power.nfc.assistant.R;
 import com.power.nfc.assistant.activitys.IActivityThatReactsToSave;
 import com.power.nfc.assistant.activitys.KeyMapCreator;
 import com.power.nfc.assistant.activitys.MainMenu;
+import com.power.nfc.assistant.utils.SharePreferfenceUtils;
 
 import me.goldze.mvvmhabit.crash.CaocConfig;
 import me.goldze.mvvmhabit.utils.KLog;
@@ -590,12 +597,35 @@ public class NfcAssistantApplication extends Application {
                 id += byte2HexString(tag.getId());
                 id += ")";
                 Toast.makeText(context, id, Toast.LENGTH_LONG).show();
+
+                //检测到新的标签，请求接口
+                String cardUid = byte2HexString(tag.getId());
+                mOnCheckCardListener.onCheckNewCardListener(cardUid);
+                Log.e(">>>>>>>>>>>>>>>>","cardUid:"+cardUid);
             }
             return checkMifareClassicSupport(tag, context);
         }
         return -4;
     }
+    private static String cardUid = "";
+    private static OnCheckNewCardListener mOnCheckCardListener;
 
+    public static void setOnCheckNewCardListener(OnCheckNewCardListener onCheckCardListener){
+        mOnCheckCardListener = onCheckCardListener;
+    }
+    /**
+     * 当监听到新卡的监听
+     */
+    public interface OnCheckNewCardListener{
+        void onCheckNewCardListener(String cardUid);
+    }
+    /**
+     * 获取新的Uid
+     * @return
+     */
+    public static String getNewCardUid(){
+        return cardUid;
+    }
     /**
      * Check if the device supports the MIFARE Classic technology.
      * In order to do so, there is a first check ensure the device actually has

@@ -4,16 +4,16 @@
 
 # IntelliJ project files
 *.iml
-.gradle/
+.gradle
 .idea/
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 /build
-/app/build
-/gradle
 /captures
-
-
+/app-framwork/build/
 .externalNativeBuild
+.gitignore
+src/main/java/com/power/nfc/assistant/activitys/MainMenu.java
+src/main/java/com/power/nfc/assistant/presenter/

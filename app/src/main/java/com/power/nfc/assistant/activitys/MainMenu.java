@@ -22,6 +22,7 @@ import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.app.Dialog;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
@@ -35,6 +36,9 @@ import android.nfc.NfcAdapter;
 import android.os.Build;
 import android.os.Bundle;
 import android.provider.Settings;
+
+import androidx.appcompat.app.AppCompatDialog;
+import androidx.appcompat.widget.AppCompatButton;
 import androidx.core.app.ActivityCompat;
 import android.text.Html;
 import android.text.method.LinkMovementMethod;
@@ -56,9 +60,17 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
+import com.lzy.okgo.OkGo;
+import com.lzy.okgo.model.Response;
+import com.lzy.okgo.request.GetRequest;
+import com.lzy.okgo.request.PostRequest;
 import com.power.nfc.assistant.abs.NfcAssistantApplication;
 import com.power.nfc.assistant.R;
 import com.power.nfc.assistant.comm.CommConstant;
+import com.power.nfc.assistant.comm.HttpsComm;
+import com.power.nfc.assistant.model.ResponseData;
+import com.power.nfc.assistant.model.UserInfoModel;
+import com.power.nfc.assistant.utils.JsonCallback;
 import com.power.nfc.assistant.utils.SharePreferfenceUtils;
 import me.goldze.mvvmhabit.utils.SPUtils;
 
@@ -88,6 +100,9 @@ public class MainMenu extends Activity {
     private Button mKeyEditor;
     private Button mDumpEditor;
     private Intent mOldIntent = null;
+
+    public MainMenu() {
+    }
 
     /**
      * Nodes (stats) MCT passes through during its startup.
@@ -142,7 +157,56 @@ public class MainMenu extends Activity {
         if("".equals(userToken)){
             Intent intent = new Intent(MainMenu.this,LoginActivity.class);
             startActivity(intent);
+        }else{
+            Log.e(">>>>>>>>>>>>","setOnCheckNewCardListener");
+            NfcAssistantApplication.setOnCheckNewCardListener(new NfcAssistantApplication.OnCheckNewCardListener() {
+                @Override
+                public void onCheckNewCardListener(String cardUid) {
+                    Log.e(">>>>>>>>>>>>","onCheckNewCardListenercardUid:"+cardUid);
+                    UserInfoModel userInfoModel = new UserInfoModel();
+                    userInfoModel.setCardId(cardUid);
+                    userInfoModel.setToken(userToken);
+                    GetRequest<ResponseData> objectGetRequest = OkGo.get(HttpsComm.QUERY_USER_INFO+userInfoModel.toString());
+                    objectGetRequest.headers("X-Token,",userToken);
+                    objectGetRequest.execute(new JsonCallback<ResponseData>() {
+                        @Override
+                        public void onSuccess(Response<ResponseData> response) {
+                            Log.e(">>>>>>>>>>>>","response:"+response.message());
+                                Dialog appCompatDialog = new Dialog(MainMenu.this);
+                                View dialogView = View.inflate(getBaseContext(), R.layout.dialog_swap_card, null);
+                                appCompatDialog.setContentView(dialogView);
+                                dialogView.findViewById(R.id.btn_cancel).setOnClickListener(new View.OnClickListener() {
+                                    @Override
+                                    public void onClick(View v) {
+                                        appCompatDialog.dismiss();
+                                    }
+                                });
+                                dialogView.findViewById(R.id.btn_register).setOnClickListener(new View.OnClickListener() {
+                                    @Override
+                                    public void onClick(View v) {
+                                        Intent registerIntent = new Intent(MainMenu.this, RegisterActivity.class);
+                                        startActivity(registerIntent);
+                                    }
+                                });
+                                appCompatDialog.create();
+                             if(!isFinishing()) {
+                                appCompatDialog.show();
+                              }
+                        }
+
+                        @Override
+                        public void onError(final Response<ResponseData> response) {
+                            super.onError(response);
+
+                            Log.e(">>>>>>>>>>>>","response:"+response.message());
+                        }
+                    });
+
+
+                }
+            });
         }
+
     }
 
     /**
