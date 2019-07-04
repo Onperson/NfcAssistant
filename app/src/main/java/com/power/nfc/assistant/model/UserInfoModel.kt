@@ -5,11 +5,10 @@ import me.goldze.mvvmhabit.base.BaseModel
 
 
 data class UserInfoModel(
-        var cardId: String = "",
-        var token: String = ""
+        var cardId: String = ""
 
 ) : BaseModel(){
     override fun toString(): String {
-        return "?cardId=$cardId&X-Token=$token"
+        return "?cardId=$cardId"
     }
 }

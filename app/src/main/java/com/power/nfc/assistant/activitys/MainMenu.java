@@ -165,33 +165,34 @@ public class MainMenu extends Activity {
                     Log.e(">>>>>>>>>>>>","onCheckNewCardListenercardUid:"+cardUid);
                     UserInfoModel userInfoModel = new UserInfoModel();
                     userInfoModel.setCardId(cardUid);
-                    userInfoModel.setToken(userToken);
                     GetRequest<ResponseData> objectGetRequest = OkGo.get(HttpsComm.QUERY_USER_INFO+userInfoModel.toString());
-                    objectGetRequest.headers("X-Token,",userToken);
+                    objectGetRequest.headers("X-Token",userToken);
                     objectGetRequest.execute(new JsonCallback<ResponseData>() {
                         @Override
                         public void onSuccess(Response<ResponseData> response) {
                             Log.e(">>>>>>>>>>>>","response:"+response.message());
-                                Dialog appCompatDialog = new Dialog(MainMenu.this);
-                                View dialogView = View.inflate(getBaseContext(), R.layout.dialog_swap_card, null);
-                                appCompatDialog.setContentView(dialogView);
-                                dialogView.findViewById(R.id.btn_cancel).setOnClickListener(new View.OnClickListener() {
-                                    @Override
-                                    public void onClick(View v) {
-                                        appCompatDialog.dismiss();
-                                    }
-                                });
-                                dialogView.findViewById(R.id.btn_register).setOnClickListener(new View.OnClickListener() {
-                                    @Override
-                                    public void onClick(View v) {
-                                        Intent registerIntent = new Intent(MainMenu.this, RegisterActivity.class);
-                                        startActivity(registerIntent);
-                                    }
-                                });
-                                appCompatDialog.create();
-                             if(!isFinishing()) {
-                                appCompatDialog.show();
-                              }
+                             if(response.body().getCode() == 700) {
+                                 Dialog appCompatDialog = new Dialog(MainMenu.this);
+                                 View dialogView = View.inflate(getBaseContext(), R.layout.dialog_swap_card, null);
+                                 appCompatDialog.setContentView(dialogView);
+                                 dialogView.findViewById(R.id.btn_cancel).setOnClickListener(new View.OnClickListener() {
+                                     @Override
+                                     public void onClick(View v) {
+                                         appCompatDialog.dismiss();
+                                     }
+                                 });
+                                 dialogView.findViewById(R.id.btn_register).setOnClickListener(new View.OnClickListener() {
+                                     @Override
+                                     public void onClick(View v) {
+                                         Intent registerIntent = new Intent(MainMenu.this, RegisterActivity.class);
+                                         startActivity(registerIntent);
+                                     }
+                                 });
+                                 appCompatDialog.create();
+                                 if (!isFinishing()) {
+                                     appCompatDialog.show();
+                                 }
+                             }
                         }
 
                         @Override

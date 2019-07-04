@@ -1,6 +1,7 @@
 package com.power.nfc.assistant.activitys
 
 import android.content.Intent
+import android.os.AsyncTask.execute
 import android.os.Bundle
 import android.util.Log
 import android.widget.EditText
@@ -53,11 +54,22 @@ class RegisterActivity : AppCompatActivity(){
             }
             // val API_BASE_DOMAIN = "https://user.api.it120.cc/login/userName"
 
+            val spUtilsInstance = SharePreferfenceUtils.getSpUtilsInstance(baseContext)
+            val userToken = spUtilsInstance?.getStringValue(CommConstant.USER_TOKEN, "")
+            Log.e(">>>>>>>>>>>>>>", "用户的Token:" + userToken!!)
             Log.e(">>>>>>>>>>>>>", "接口请求:$registerModel")
             OkGo.post<ResponseData<String>>(HttpsComm.REGISTER_USER_ACCOUNT + registerModel.toString())
+                    .headers("X-Token", userToken)
                     .execute(object : JsonCallback<ResponseData<String>>() {
                         override fun onSuccess(response: Response<ResponseData<String>>?) {
                             val e = Log.e(">>>>>>>>>>>>>", "注册成功:response:" + response?.body()?.data)
+                            if(response?.body()?.code == 0){
+                                Toast.makeText(baseContext, "恭喜您注册成功!", Toast.LENGTH_LONG).show()
+                                finish()
+                            }else if(response?.body()?.code == 10001){
+                                Toast.makeText(baseContext,  response?.message(), Toast.LENGTH_LONG).show()
+                                finish()
+                            }
                         }
 
                         override fun onError(response: Response<ResponseData<String>>?) {
