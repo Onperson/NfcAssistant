@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.goldze:MVVMHabit:3.1.2@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/defeabd68394125bc0a2c41430f82639/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5ba92b91be7eb3da56290ec455bc9d9/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/defeabd68394125bc0a2c41430f82639/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/defeabd68394125bc0a2c41430f82639/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5ba92b91be7eb3da56290ec455bc9d9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5ba92b91be7eb3da56290ec455bc9d9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
